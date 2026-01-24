@@ -32,9 +32,7 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
         clear: () => {
             const canvas = canvasRef.current;
             const ctx = contextRef.current;
-            ctx.clearRect(0, 0, canvas.width, canvas.height); // Note: Clear using physical pixels or large rect
-            // Because of scale(), clearing (0,0,width,height) clears logical area.
-            // But clearRect is affected by transform.
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
             ctx.clearRect(0, 0, width, height);
         },
 
@@ -43,77 +41,127 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
             const canvas = canvasRef.current;
             const ctx = contextRef.current;
             // Get user drawing data
-            // We need to get data from the physical canvas size
             const dpr = window.devicePixelRatio || 1;
             const w = canvas.width;
             const h = canvas.height;
             const userImgData = ctx.getImageData(0, 0, w, h);
 
-            // Create offscreen canvas for the "Correct" shape
             const guideCanvas = document.createElement('canvas');
             guideCanvas.width = w;
             guideCanvas.height = h;
             const gCtx = guideCanvas.getContext('2d', { willReadFrequently: true });
 
-            // Setup font to match the CSS display exactly
-            // CSS: font-size: 200px, family: Zen Maru Gothic
-            // We need to scale font size by dpr because we are drawing on physical pixels directly (or use scale)
-            gCtx.scale(dpr, dpr);
-            gCtx.font = '200px "Zen Maru Gothic", "Kiwi Maru", serif';
-            gCtx.textAlign = 'center';
-            gCtx.textBaseline = 'middle';
+            const svgData = HIRAGANA_SVG[character];
 
-            // Draw "Valid Zone" - allow some margin of error
-            // We draw the character with a thick stroke to create a "safe zone"
-            gCtx.lineJoin = 'round';
-            gCtx.lineCap = 'round';
-            gCtx.lineWidth = 45; // Reduced buffer (was 60) for stricter check
-            gCtx.strokeStyle = '#000';
-            gCtx.strokeText(character, width / 2, height / 2);
-            gCtx.fillStyle = '#000';
-            gCtx.fillText(character, width / 2, height / 2);
+            if (svgData) {
+                // Use SVG paths for validation logic to match visual guide
+                // Visual layout: centered, padding 20px (logical)
+                const padding = 20 * dpr;
+                const logicalW = width * dpr;
+                const logicalH = height * dpr;
+
+                // Effective area for SVG
+                const drawW = logicalW - (padding * 2);
+                const drawH = logicalH - (padding * 2);
+                // SVG viewBox is 109x109
+                const scale = Math.min(drawW, drawH) / 109;
+
+                gCtx.translate(padding, padding);
+                gCtx.scale(scale, scale);
+                gCtx.lineCap = 'round';
+                gCtx.lineJoin = 'round';
+                // Validation thickness: 35 units in 109-space (~20-25% of width). 
+                gCtx.lineWidth = 35;
+                gCtx.strokeStyle = '#000';
+
+                // Parse paths
+                const pathRegex = /<path[^>]*\sd="([^"]+)"/g;
+                let match;
+                while ((match = pathRegex.exec(svgData)) !== null) {
+                    const p = new Path2D(match[1]);
+                    gCtx.stroke(p);
+                }
+            } else {
+                // Fallback to Font
+                gCtx.scale(dpr, dpr);
+                gCtx.font = '200px "Zen Maru Gothic", "Kiwi Maru", serif';
+                gCtx.textAlign = 'center';
+                gCtx.textBaseline = 'middle';
+                gCtx.lineJoin = 'round';
+                gCtx.lineCap = 'round';
+                gCtx.lineWidth = 45;
+                gCtx.strokeStyle = '#000';
+                gCtx.strokeText(character, width / 2, height / 2);
+                gCtx.fillStyle = '#000';
+                gCtx.fillText(character, width / 2, height / 2);
+            }
 
             const guideData = gCtx.getImageData(0, 0, w, h);
 
             let totalInk = 0;
             let outsideInk = 0;
+            let totalGuideInk = 0;
+            let coveredGuideInk = 0;
 
-            // Iterate pixels (RGBA)
             for (let i = 3; i < userImgData.data.length; i += 4) {
-                // If user drew here (Alpha > 0)
-                if (userImgData.data[i] > 30) {
-                    totalInk++;
+                const isUser = userImgData.data[i] > 30;
+                const isGuide = guideData.data[i] > 30;
 
-                    // Check if it matches guide (Guide Alpha > 0)
-                    if (guideData.data[i] < 30) {
+                if (isGuide) {
+                    totalGuideInk++;
+                }
+
+                if (isUser) {
+                    totalInk++;
+                    if (isGuide) {
+                        coveredGuideInk++;
+                    } else {
                         outsideInk++;
                     }
                 }
             }
 
-            // Heuristics
             const totalPixels = w * h;
             const fillRatio = totalInk / totalPixels;
 
-            console.log(`Validation: TotalInk=${totalInk}, Outside=${outsideInk}, FillRatio=${fillRatio.toFixed(3)}`);
+            // Calculate ratio of User Ink to Guide Area
+            // Guide is ~35 units wide. User pen is `strokeWidth` (12px).
+            // Ideal coverage: totalInk ~= totalGuideInk * (12/35 approx ratio in pixels).
+            // We loosely estimating the ratio based on thickness.
+            const guideThickness = 35;
+            // Adjust factor because guideThickness is in SVG coords (roughly 35 becomes ~90px on high DPI).
+            // But canvas drawing is in physical pixels.
+            // Wait, gCtx was scaled. So lineWidth 35 is actually huge in pixels.
+            // User draw is 12px physical (if dpr=1) or 12*dpr (if scaled elsewhere? No contextRef is scaled I think).
+            // Actually, `ctx` in useEffect has `ctx.scale(dpr,dpr)` and `lineWidth=strokeWidth` (12).
+            // `gCtx` has `scale` and `lineWidth=35`.
+            // So the ratio of user visual width to validation visual width is indeed 12/35 (in coordinate units).
 
-            // 1. Must have drawn something significant
-            // e.g. at least 1% of canvas area? Or 500 pixels?
-            if (totalInk < 500 * dpr * dpr) return false; // Too empty
+            const expectedUserInk = totalGuideInk * (strokeWidth / guideThickness);
 
-            // 2. Blackout protection: If user filled more than 40% of the canvas, it's likely a mess/scribble
-            // Normal character strokes shouldn't take up that much space.
-            if (fillRatio > 0.45) {
-                console.log('Validation Failed: Too much ink (Blackout protection)');
-                return false;
-            }
+            // Ideally: coveredGuideInk ~= expectedUserInk.
+            // We accept 50% of expected ink to pass.
+            // This prevents "just 1 stroke" (33%) but allows thin strokes.
+            const completionRate = expectedUserInk > 0 ? coveredGuideInk / expectedUserInk : 0;
 
-            // 3. "Messy" check: Too much ink outside the valid zone
-            // If > 25% of ink is outside, it's messy
+            console.log(`Validation: TotalInk=${totalInk}, GuideArea=${totalGuideInk}, Expt=${expectedUserInk.toFixed(0)}, Cov=${coveredGuideInk}, Rate=${completionRate.toFixed(2)}`);
+
+            if (totalInk < 500 * dpr * dpr) return false;
+            if (fillRatio > 0.45) return false;
+
             const outsideRatio = outsideInk / totalInk;
             console.log(`Validation: OutsideRatio=${outsideRatio.toFixed(2)}`);
 
-            return outsideRatio < 0.25; // Allow 25% error
+            // 1. Precision check: outside ratio
+            if (outsideRatio > 0.40) return false;
+
+            // 2. Completion check
+            if (completionRate < 0.50) {
+                console.log('Validation Failed: Incomplete (Not enough ink on guide)');
+                return false;
+            }
+
+            return true;
         }
     }));
 
@@ -153,23 +201,36 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
         };
     };
 
-
-
     return (
         <div className={styles.boardContainer}>
             <div className={styles.guideText}>
-                {/* If we have SVG stroke data, use it. Otherwise fallback to text font */}
-                {HIRAGANA_SVG[character] ? (
-                    <div style={{ width: width, height: height, display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-                        {/* SVG is now responsive, so we just fill the container */}
-                        <StrokeGuide character={character} size="100%" />
-                    </div>
-                ) : (
-                    character
+                {/* 1. Underlying Font Character - Only show if NO SVG available */}
+                {!HIRAGANA_SVG[character] && (
+                    <span style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)' }}>
+                        {character}
+                    </span>
                 )}
             </div>
+
+            {/* Overlay Stroke Guide (SVG) - Now contains both base and guide */}
+            {HIRAGANA_SVG[character] && (
+                <div style={{
+                    position: 'absolute',
+                    top: 0,
+                    left: 0,
+                    width: `${width}px`,
+                    height: `${height}px`,
+                    pointerEvents: 'none',
+                    zIndex: 1,
+                    display: 'flex',
+                    justifyContent: 'center',
+                    alignItems: 'center',
+                    padding: '20px' // Add some padding so it doesn't touch edges
+                }}>
+                    <StrokeGuide character={character} size="100%" />
+                </div>
+            )}
             <canvas
-                // ... (rest of code)
                 ref={canvasRef}
                 className={styles.canvas}
                 onMouseDown={startDrawing}

@@ -7,7 +7,8 @@ const StrokeGuide = ({ character, size = 320 }) => {
     if (!svgString) return null;
 
     // Extract paths and stroke numbers
-    const pathRegex = /<path d="([^"]+)"/g;
+    // Allow for other attributes (like id) before d
+    const pathRegex = /<path[^>]*\sd="([^"]+)"/g;
     const paths = [];
     let match;
     while ((match = pathRegex.exec(svgString)) !== null) {
@@ -23,8 +24,16 @@ const StrokeGuide = ({ character, size = 320 }) => {
 
     return (
         <div style={{ width: size, height: size, display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-            <svg viewBox="0 0 109 109" width="100%" height="100%" style={{ pointerEvents: 'none', opacity: 0.6 }}>
-                <g style={{ fill: 'none', stroke: '#ddd', strokeWidth: 4, strokeLinecap: 'round', strokeLinejoin: 'round' }}>
+            <svg viewBox="0 0 109 109" width="100%" height="100%" style={{ pointerEvents: 'none', opacity: 1 }}>
+                {/* 1. Thick Base Character (Hidden Hitbox) */}
+                <g style={{ fill: 'none', stroke: 'transparent', strokeWidth: 25, strokeLinecap: 'round', strokeLinejoin: 'round' }}>
+                    {paths.map((d, i) => (
+                        <path key={`base-${i}`} d={d} />
+                    ))}
+                </g>
+
+                {/* 2. Thin Guide Lines */}
+                <g style={{ fill: 'none', stroke: '#999', strokeWidth: 3, strokeLinecap: 'round', strokeLinejoin: 'round', strokeDasharray: '5,5' }}>
                     {paths.map((d, i) => (
                         <path key={i} d={d} />
                     ))}
