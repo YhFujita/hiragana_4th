@@ -65,7 +65,7 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
             // We draw the character with a thick stroke to create a "safe zone"
             gCtx.lineJoin = 'round';
             gCtx.lineCap = 'round';
-            gCtx.lineWidth = 60; // Generous buffer (radius 30px)
+            gCtx.lineWidth = 45; // Reduced buffer (was 60) for stricter check
             gCtx.strokeStyle = '#000';
             gCtx.strokeText(character, width / 2, height / 2);
             gCtx.fillStyle = '#000';
@@ -90,14 +90,26 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
             }
 
             // Heuristics
+            const totalPixels = w * h;
+            const fillRatio = totalInk / totalPixels;
+
+            console.log(`Validation: TotalInk=${totalInk}, Outside=${outsideInk}, FillRatio=${fillRatio.toFixed(3)}`);
+
             // 1. Must have drawn something significant
             // e.g. at least 1% of canvas area? Or 500 pixels?
             if (totalInk < 500 * dpr * dpr) return false; // Too empty
 
-            // 2. "Messy" check: Too much ink outside the valid zone
-            // If > 20% of ink is outside, it's messy
+            // 2. Blackout protection: If user filled more than 40% of the canvas, it's likely a mess/scribble
+            // Normal character strokes shouldn't take up that much space.
+            if (fillRatio > 0.45) {
+                console.log('Validation Failed: Too much ink (Blackout protection)');
+                return false;
+            }
+
+            // 3. "Messy" check: Too much ink outside the valid zone
+            // If > 25% of ink is outside, it's messy
             const outsideRatio = outsideInk / totalInk;
-            console.log(`Validation: TotalInk=${totalInk}, Outside=${outsideInk}, Ratio=${outsideRatio.toFixed(2)}`);
+            console.log(`Validation: OutsideRatio=${outsideRatio.toFixed(2)}`);
 
             return outsideRatio < 0.25; // Allow 25% error
         }
