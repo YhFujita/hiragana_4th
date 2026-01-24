@@ -1,5 +1,7 @@
 import React, { useRef, useEffect, useState } from 'react';
 import styles from './CanvasBoard.module.css';
+import { HIRAGANA_SVG } from '@/data/hiraganaSvg';
+import StrokeGuide from '../UI/StrokeGuide';
 
 const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', strokeWidth = 10, character = '' }, ref) => {
     const canvasRef = useRef(null);
@@ -151,12 +153,23 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
         };
     };
 
+
+
     return (
         <div className={styles.boardContainer}>
             <div className={styles.guideText}>
-                {character}
+                {/* If we have SVG stroke data, use it. Otherwise fallback to text font */}
+                {HIRAGANA_SVG[character] ? (
+                    <div style={{ width: width, height: height, display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+                        {/* SVG is now responsive, so we just fill the container */}
+                        <StrokeGuide character={character} size="100%" />
+                    </div>
+                ) : (
+                    character
+                )}
             </div>
             <canvas
+                // ... (rest of code)
                 ref={canvasRef}
                 className={styles.canvas}
                 onMouseDown={startDrawing}
