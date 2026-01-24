@@ -71,6 +71,7 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
                 gCtx.lineCap = 'round';
                 gCtx.lineJoin = 'round';
                 // Validation thickness: 35 units in 109-space (~20-25% of width). 
+                // This covers the visual "thick gray base" (width 25) plus margin.
                 gCtx.lineWidth = 35;
                 gCtx.strokeStyle = '#000';
 
@@ -125,23 +126,34 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
             const fillRatio = totalInk / totalPixels;
 
             // Calculate ratio of User Ink to Guide Area
-            // Guide is ~35 units wide. User pen is `strokeWidth` (12px).
-            // Ideal coverage: totalInk ~= totalGuideInk * (12/35 approx ratio in pixels).
-            // We loosely estimating the ratio based on thickness.
+            // Guide is drawn with `guideThickness` in SVG units (scaled by `scale`).
+            // Physical width of guide = guideThickness * scale.
+            // User pen is `strokeWidth` (physical pixels).
             const guideThickness = 35;
-            // Adjust factor because guideThickness is in SVG coords (roughly 35 becomes ~90px on high DPI).
-            // But canvas drawing is in physical pixels.
-            // Wait, gCtx was scaled. So lineWidth 35 is actually huge in pixels.
-            // User draw is 12px physical (if dpr=1) or 12*dpr (if scaled elsewhere? No contextRef is scaled I think).
-            // Actually, `ctx` in useEffect has `ctx.scale(dpr,dpr)` and `lineWidth=strokeWidth` (12).
-            // `gCtx` has `scale` and `lineWidth=35`.
-            // So the ratio of user visual width to validation visual width is indeed 12/35 (in coordinate units).
+            // Note: If svgData is null (fallback), scale is dpr. guideThickness was 45.
+            // But let's assume we are mostly using SVG now.
+            // For robustness, calculate expected based on whatever drawn. 
+            // Better approximation: Expected Ink = Length * strokeWidth.
+            // Actual Guide Area = Length * guidePhysicalWidth.
+            // So Expected / GuideArea = strokeWidth / guidePhysicalWidth.
 
-            const expectedUserInk = totalGuideInk * (strokeWidth / guideThickness);
+            let physicalGuideWidth;
+            if (svgData) {
+                const padding = 20 * dpr;
+                const logicalW = width * dpr;
+                const logicalH = height * dpr;
+                const drawW = logicalW - (padding * 2);
+                const drawH = logicalH - (padding * 2);
+                const scale = Math.min(drawW, drawH) / 109;
+                physicalGuideWidth = 35 * scale;
+            } else {
+                physicalGuideWidth = 45 * dpr;
+            }
 
-            // Ideally: coveredGuideInk ~= expectedUserInk.
-            // We accept 50% of expected ink to pass.
-            // This prevents "just 1 stroke" (33%) but allows thin strokes.
+            const expectedUserInk = totalGuideInk * (strokeWidth / physicalGuideWidth);
+
+            // Completion Check: 
+            // We accept if they covered at least 50% of the *expected* ink.
             const completionRate = expectedUserInk > 0 ? coveredGuideInk / expectedUserInk : 0;
 
             console.log(`Validation: TotalInk=${totalInk}, GuideArea=${totalGuideInk}, Expt=${expectedUserInk.toFixed(0)}, Cov=${coveredGuideInk}, Rate=${completionRate.toFixed(2)}`);
@@ -157,7 +169,7 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
 
             // 2. Completion check
             if (completionRate < 0.50) {
-                console.log('Validation Failed: Incomplete (Not enough ink on guide)');
+                console.log('Validation Failed: Incomplete (Not enough ink line length)');
                 return false;
             }
 
