@@ -167,8 +167,8 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
             // 1. Precision check: outside ratio
             if (outsideRatio > 0.40) return false;
 
-            // 2. Completion check
-            if (completionRate < 0.50) {
+            // 2. Completion check: at least 80% of the expected ink amount inside the guide
+            if (completionRate < 0.80) {
                 console.log('Validation Failed: Incomplete (Not enough ink line length)');
                 return false;
             }
