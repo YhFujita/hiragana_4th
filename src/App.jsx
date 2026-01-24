@@ -3,15 +3,18 @@ import MainLayout from '@/components/Layout/MainLayout';
 import CanvasBoard from '@/components/Canvas/CanvasBoard';
 import CharacterGrid from '@/components/UI/CharacterGrid';
 import Hanamaru from '@/components/UI/Hanamaru';
+import Mascot from '@/components/UI/Mascot';
 
 function App() {
   const [selectedChar, setSelectedChar] = useState(null);
   const [refreshKey, setRefreshKey] = useState(0);
   const [showFeedback, setShowFeedback] = useState(false);
+  const [mascotMessage, setMascotMessage] = useState('');
 
   // Reset feedback when char changes or refresh
   React.useEffect(() => {
     setShowFeedback(false);
+    setMascotMessage('');
   }, [selectedChar, refreshKey]);
 
   const canvasRef = React.useRef(null);
@@ -25,8 +28,9 @@ function App() {
       const isValid = canvasRef.current.validate();
       if (isValid) {
         setShowFeedback(true);
+        setMascotMessage('よくできました！'); // Optional success message
       } else {
-        alert('はみださないように かいてみよう！');
+        setMascotMessage('はみださないように かいてみよう！');
       }
     }
   };
@@ -36,6 +40,11 @@ function App() {
       {selectedChar ? (
         <div style={{ display: 'flex', flexDirection: 'column', gap: '20px', alignItems: 'center', position: 'relative' }}>
           {showFeedback && <Hanamaru />}
+          <Mascot
+            message={mascotMessage}
+            visible={!!mascotMessage}
+            onClose={() => setMascotMessage('')}
+          />
           <CanvasBoard
             ref={canvasRef}
             key={`${selectedChar}-${refreshKey}`}
