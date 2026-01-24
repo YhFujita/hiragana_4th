@@ -1,31 +1,107 @@
 import React, { useRef, useEffect, useState } from 'react';
 import styles from './CanvasBoard.module.css';
 
-const CanvasBoard = ({ width, height, strokeColor = '#333', strokeWidth = 10, character = '' }) => {
+const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', strokeWidth = 10, character = '' }, ref) => {
     const canvasRef = useRef(null);
     const [isDrawing, setIsDrawing] = useState(false);
     const contextRef = useRef(null);
 
+    // Initial setup
     useEffect(() => {
         const canvas = canvasRef.current;
-
-        // Handle High DPI displays
         const dpr = window.devicePixelRatio || 1;
         canvas.width = width * dpr;
         canvas.height = height * dpr;
         canvas.style.width = `${width}px`;
         canvas.style.height = `${height}px`;
 
-        const ctx = canvas.getContext('2d');
+        const ctx = canvas.getContext('2d', { willReadFrequently: true });
         ctx.scale(dpr, dpr);
         ctx.lineCap = 'round';
         ctx.lineJoin = 'round';
         ctx.strokeStyle = strokeColor;
         ctx.lineWidth = strokeWidth;
         contextRef.current = ctx;
-
-        // Clear canvas functionality (optional exposition for now)
     }, [width, height, strokeColor, strokeWidth]);
+
+    // Expose methods to parent
+    React.useImperativeHandle(ref, () => ({
+        // Clears the canvas
+        clear: () => {
+            const canvas = canvasRef.current;
+            const ctx = contextRef.current;
+            ctx.clearRect(0, 0, canvas.width, canvas.height); // Note: Clear using physical pixels or large rect
+            // Because of scale(), clearing (0,0,width,height) clears logical area.
+            // But clearRect is affected by transform.
+            ctx.clearRect(0, 0, width, height);
+        },
+
+        // Simple validation: Checks if drawing stays mostly within the character shape
+        validate: () => {
+            const canvas = canvasRef.current;
+            const ctx = contextRef.current;
+            // Get user drawing data
+            // We need to get data from the physical canvas size
+            const dpr = window.devicePixelRatio || 1;
+            const w = canvas.width;
+            const h = canvas.height;
+            const userImgData = ctx.getImageData(0, 0, w, h);
+
+            // Create offscreen canvas for the "Correct" shape
+            const guideCanvas = document.createElement('canvas');
+            guideCanvas.width = w;
+            guideCanvas.height = h;
+            const gCtx = guideCanvas.getContext('2d', { willReadFrequently: true });
+
+            // Setup font to match the CSS display exactly
+            // CSS: font-size: 200px, family: Zen Maru Gothic
+            // We need to scale font size by dpr because we are drawing on physical pixels directly (or use scale)
+            gCtx.scale(dpr, dpr);
+            gCtx.font = '200px "Zen Maru Gothic", "Kiwi Maru", serif';
+            gCtx.textAlign = 'center';
+            gCtx.textBaseline = 'middle';
+
+            // Draw "Valid Zone" - allow some margin of error
+            // We draw the character with a thick stroke to create a "safe zone"
+            gCtx.lineJoin = 'round';
+            gCtx.lineCap = 'round';
+            gCtx.lineWidth = 60; // Generous buffer (radius 30px)
+            gCtx.strokeStyle = '#000';
+            gCtx.strokeText(character, width / 2, height / 2);
+            gCtx.fillStyle = '#000';
+            gCtx.fillText(character, width / 2, height / 2);
+
+            const guideData = gCtx.getImageData(0, 0, w, h);
+
+            let totalInk = 0;
+            let outsideInk = 0;
+
+            // Iterate pixels (RGBA)
+            for (let i = 3; i < userImgData.data.length; i += 4) {
+                // If user drew here (Alpha > 0)
+                if (userImgData.data[i] > 30) {
+                    totalInk++;
+
+                    // Check if it matches guide (Guide Alpha > 0)
+                    if (guideData.data[i] < 30) {
+                        outsideInk++;
+                    }
+                }
+            }
+
+            // Heuristics
+            // 1. Must have drawn something significant
+            // e.g. at least 1% of canvas area? Or 500 pixels?
+            if (totalInk < 500 * dpr * dpr) return false; // Too empty
+
+            // 2. "Messy" check: Too much ink outside the valid zone
+            // If > 20% of ink is outside, it's messy
+            const outsideRatio = outsideInk / totalInk;
+            console.log(`Validation: TotalInk=${totalInk}, Outside=${outsideInk}, Ratio=${outsideRatio.toFixed(2)}`);
+
+            return outsideRatio < 0.25; // Allow 25% error
+        }
+    }));
 
     const startDrawing = ({ nativeEvent }) => {
         const { offsetX, offsetY } = getCoordinates(nativeEvent);
@@ -81,6 +157,7 @@ const CanvasBoard = ({ width, height, strokeColor = '#333', strokeWidth = 10, ch
             />
         </div>
     );
-};
+});
 
+CanvasBoard.displayName = 'CanvasBoard';
 export default CanvasBoard;

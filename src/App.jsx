@@ -14,8 +14,21 @@ function App() {
     setShowFeedback(false);
   }, [selectedChar, refreshKey]);
 
+  const canvasRef = React.useRef(null);
+
   const handleBack = () => {
     setSelectedChar(null);
+  };
+
+  const handleDone = () => {
+    if (canvasRef.current) {
+      const isValid = canvasRef.current.validate();
+      if (isValid) {
+        setShowFeedback(true);
+      } else {
+        alert('はみださないように かいてみよう！');
+      }
+    }
   };
 
   return (
@@ -24,6 +37,7 @@ function App() {
         <div style={{ display: 'flex', flexDirection: 'column', gap: '20px', alignItems: 'center', position: 'relative' }}>
           {showFeedback && <Hanamaru />}
           <CanvasBoard
+            ref={canvasRef}
             key={`${selectedChar}-${refreshKey}`}
             width={320}
             height={320}
@@ -47,7 +61,7 @@ function App() {
                 background: '#ff6f00', color: 'white', cursor: 'pointer',
                 boxShadow: '0 4px 0 #e65100'
               }}
-              onClick={() => setShowFeedback(true)}
+              onClick={handleDone}
             >
               できた！
             </button>
