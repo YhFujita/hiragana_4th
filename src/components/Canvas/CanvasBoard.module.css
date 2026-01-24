@@ -1,0 +1,34 @@
+.boardContainer {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.guideText {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 200px;
+    /* Large font for the guide */
+    color: #e0e0e0;
+    /* Faint gray */
+    pointer-events: none;
+    /* Let clicks pass through to canvas */
+    user-select: none;
+    font-family: 'Zen Maru Gothic', 'Kiwi Maru', serif;
+    z-index: 1;
+}
+
+.canvas {
+    position: relative;
+    z-index: 2;
+    touch-action: none;
+    border: 4px dashed #bdc3c7;
+    /* Softer border */
+    border-radius: 20px;
+    background-color: transparent;
+    /* Must be transparent to see guide */
+    cursor: crosshair;
+}

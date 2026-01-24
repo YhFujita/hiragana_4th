@@ -1,0 +1,9 @@
+﻿
+C:\Users\YFujita\Documents\kaho髢｢菫・縺ｲ繧峨′縺ｪ邱ｴ鄙・th\src\App.jsx
+  40:13  error  Parsing error: Unexpected token <
+
+C:\Users\YFujita\Documents\kaho髢｢菫・縺ｲ繧峨′縺ｪ邱ｴ鄙・th\vite.config.js
+  10:25  error  'process' is not defined  no-undef
+
+笨・2 problems (2 errors, 0 warnings)
+

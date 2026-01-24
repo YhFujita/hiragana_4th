@@ -1,0 +1,39 @@
+.gridContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 100%;
+    max-width: 600px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.charButton {
+    width: 60px;
+    height: 60px;
+    font-size: 1.8rem;
+    border: 2px solid #ec407a;
+    border-radius: 15px;
+    background-color: white;
+    color: #880e4f;
+    cursor: pointer;
+    transition: transform 0.1s, background-color 0.2s;
+    font-family: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.charButton:hover {
+    background-color: #fce4ec;
+    transform: scale(1.05);
+}
+
+.charButton:active {
+    transform: scale(0.95);
+    background-color: #f8bbd0;
+}
