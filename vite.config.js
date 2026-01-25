@@ -5,7 +5,7 @@ import path from 'path'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: './',
+  base: '/hiragana-practice-4th/',
   plugins: [react()],
   resolve: {
     alias: {
