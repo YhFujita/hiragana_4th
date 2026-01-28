@@ -26,6 +26,58 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
         contextRef.current = ctx;
     }, [width, height, strokeColor, strokeWidth]);
 
+    // Helper: Draw SVG tree to Canvas Context
+    const drawSvgToContext = (ctx, svgString, size = 109) => {
+        if (!svgString) return;
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(svgString, "image/svg+xml");
+        const svgRoot = doc.querySelector('svg');
+        if (!svgRoot) return;
+
+        // Recursive render function
+        const renderNode = (node) => {
+            if (node.nodeType !== 1) return; // Element nodes only
+
+            ctx.save();
+
+            // Apply transforms
+            const transform = node.getAttribute('transform');
+            if (transform) {
+                // Parse translate/scale. Simplified parser for standard SVG transforms.
+                // Improve regex to handle decimals and spaces.
+                const transforms = transform.match(/[a-z]+\([^)]+\)/g);
+                if (transforms) {
+                    transforms.forEach(t => {
+                        if (t.startsWith('translate')) {
+                            const [tx, ty] = t.match(/-?[\d.]+/g).map(Number);
+                            ctx.translate(tx, ty || 0);
+                        } else if (t.startsWith('scale')) {
+                            const s = t.match(/-?[\d.]+/g).map(Number);
+                            ctx.scale(s[0], s[1] !== undefined ? s[1] : s[0]);
+                        } else if (t.startsWith('matrix')) {
+                            const m = t.match(/-?[\d.]+/g).map(Number);
+                            ctx.transform(m[0], m[1], m[2], m[3], m[4], m[5]);
+                        }
+                    });
+                }
+            }
+
+            if (node.tagName === 'path') {
+                const d = node.getAttribute('d');
+                if (d) {
+                    const p = new Path2D(d);
+                    ctx.stroke(p);
+                }
+            } else if (node.tagName === 'g' || node.tagName === 'svg') {
+                Array.from(node.children).forEach(renderNode);
+            }
+
+            ctx.restore();
+        };
+
+        renderNode(svgRoot);
+    };
+
     // Expose methods to parent
     React.useImperativeHandle(ref, () => ({
         // Clears the canvas
@@ -70,18 +122,12 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
                 gCtx.scale(scale, scale);
                 gCtx.lineCap = 'round';
                 gCtx.lineJoin = 'round';
-                // Validation thickness: 35 units in 109-space (~20-25% of width). 
-                // This covers the visual "thick gray base" (width 25) plus margin.
+                // Validation thickness
                 gCtx.lineWidth = 35;
                 gCtx.strokeStyle = '#000';
 
-                // Parse paths
-                const pathRegex = /<path[^>]*\sd="([^"]+)"/g;
-                let match;
-                while ((match = pathRegex.exec(svgData)) !== null) {
-                    const p = new Path2D(match[1]);
-                    gCtx.stroke(p);
-                }
+                drawSvgToContext(gCtx, svgData);
+
             } else {
                 // Fallback to Font
                 gCtx.scale(dpr, dpr);
@@ -125,18 +171,6 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
             const totalPixels = w * h;
             const fillRatio = totalInk / totalPixels;
 
-            // Calculate ratio of User Ink to Guide Area
-            // Guide is drawn with `guideThickness` in SVG units (scaled by `scale`).
-            // Physical width of guide = guideThickness * scale.
-            // User pen is `strokeWidth` (physical pixels).
-            const guideThickness = 35;
-            // Note: If svgData is null (fallback), scale is dpr. guideThickness was 45.
-            // But let's assume we are mostly using SVG now.
-            // For robustness, calculate expected based on whatever drawn. 
-            // Better approximation: Expected Ink = Length * strokeWidth.
-            // Actual Guide Area = Length * guidePhysicalWidth.
-            // So Expected / GuideArea = strokeWidth / guidePhysicalWidth.
-
             let physicalGuideWidth;
             if (svgData) {
                 const padding = 20 * dpr;
@@ -152,8 +186,6 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
 
             const expectedUserInk = totalGuideInk * (strokeWidth / physicalGuideWidth);
 
-            // Completion Check: 
-            // We accept if they covered at least 50% of the *expected* ink.
             const completionRate = expectedUserInk > 0 ? coveredGuideInk / expectedUserInk : 0;
 
             console.log(`Validation: TotalInk=${totalInk}, GuideArea=${totalGuideInk}, Expt=${expectedUserInk.toFixed(0)}, Cov=${coveredGuideInk}, Rate=${completionRate.toFixed(2)}`);
@@ -164,10 +196,7 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
             const outsideRatio = outsideInk / totalInk;
             console.log(`Validation: OutsideRatio=${outsideRatio.toFixed(2)}`);
 
-            // 1. Precision check: outside ratio
             if (outsideRatio > 0.40) return false;
-
-            // 2. Completion check: at least 80% of the expected ink amount inside the guide
             if (completionRate < 0.80) {
                 console.log('Validation Failed: Incomplete (Not enough ink line length)');
                 return false;
@@ -196,7 +225,6 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
         contextRef.current.stroke();
     };
 
-    // Helper to get coordinates correctly from Touch or Mouse events
     const getCoordinates = (event) => {
         if (event.touches && event.touches.length > 0) {
             const canvas = canvasRef.current;
@@ -216,7 +244,6 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
     return (
         <div className={styles.boardContainer}>
             <div className={styles.guideText}>
-                {/* 1. Underlying Font Character - Only show if NO SVG available */}
                 {!HIRAGANA_SVG[character] && (
                     <span style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)' }}>
                         {character}
@@ -224,7 +251,6 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
                 )}
             </div>
 
-            {/* Overlay Stroke Guide (SVG) - Now contains both base and guide */}
             {HIRAGANA_SVG[character] && (
                 <div style={{
                     position: 'absolute',
@@ -237,7 +263,7 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
                     display: 'flex',
                     justifyContent: 'center',
                     alignItems: 'center',
-                    padding: '20px' // Add some padding so it doesn't touch edges
+                    padding: '20px'
                 }}>
                     <StrokeGuide character={character} size="100%" />
                 </div>

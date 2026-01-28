@@ -938,17 +938,17 @@ xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_0307e" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:0307e" kvg:element="ま">
-	<path id="kvg:0307e-s1" d="M29.83,32.28c2.2,1.15,4.43,1.5,7.14,1.26c11.54-1.04,25.94-3.12,34.66-4.85c2.87-0.57,5.45-0.44,7.13-0.44"/>
-	<path id="kvg:0307e-s2" d="M33.83,51.84c2.45,1.61,4.94,1.72,7.94,1.26c9.52-1.46,17.87-3.1,27.03-5.16c3.22-0.72,6.34-1.32,8.21-1.32"/>
-	<path id="kvg:0307e-s3" d="M55.81,14c1.52,1.8,1.8,4.57,1.8,7.19c0,2.63,0.46,43.88,0.46,54.25c0,21.3-30.07,19.96-30.07,9.86c0-10.79,25.88-9.93,38.57-3.18c6.12,3.25,11.55,6.38,14.8,9.13"/>
+<g id="kvg:StrokePaths_03080" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03080" kvg:element="む">
+	<path id="kvg:03080-s1" d="M19.59,31.65c2.1,1.55,4.24,1.66,6.81,1.21c8.17-1.41,15.33-2.98,23.19-4.96c2.76-0.69,5.44-1.27,7.05-1.27"/>
+	<path id="kvg:03080-s2" d="M37.02,15.5c1.62,1.25,2.31,2.88,2.12,5.25c-0.88,11.12-1.5,20.75-4,34.88c-3.61,20.44-19.25,16.99-18.62,7.37c0.5-7.74,6.25-12.86,12.62-13.5c5-0.5,14.28,1.93,5.88,15c-12.62,19.62-11.42,24.51,5.11,25.54c10.98,0.68,19.26,0.72,28.49-0.92c14.15-2.5,7.4-2.63,7.4-11.13"/>
+	<path id="kvg:03080-s3" d="M78.52,36.25c6.88,3.12,11.71,5.95,14.88,10.12c6.25,8.25-1.38,3.62-4.5,4.5"/>
 </g>
 </g>
-<g id="kvg:StrokeNumbers_0307e" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 24.26 28.13)">1</text>
-	<text transform="matrix(1 0 0 1 26.63 50.88)">2</text>
-	<text transform="matrix(1 0 0 1 47.26 13.13)">3</text>
+<g id="kvg:StrokeNumbers_03080" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.9 29)">1</text>
+	<text transform="matrix(1 0 0 1 26.65 13)">2</text>
+	<text transform="matrix(1 0 0 1 70.4 34.75)">3</text>
 </g>
 </svg>`,
     'み': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
@@ -970,15 +970,15 @@ xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_0307f" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:0307f" kvg:element="み">
-	<path id="kvg:0307f-s1" d="M32.5,26c1.88,1.75,4.06,1.7,6.88,1.25c3.88-0.62,7.62-1.75,11.88-3.12c4.26-1.37,6.25-0.12,4.5,5.12c-1.75,5.24-6.66,17.39-12,30.12c-13.63,32.51-29.26,29.26-29.26,18.63c0-14.25,20.48-15.36,33-13.5c18.5,2.75,30,6.62,44.38,14.25"/>
-	<path id="kvg:0307f-s2" d="M79.38,54.75c0.75,2.38,0.49,4.37,0,6.25c-2.12,8.12-7.5,25-22.12,33.75"/>
+<g id="kvg:StrokePaths_generated_め" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:generated_め" kvg:element="め">
+	<path id="kvg:generated-め-s1" d="M25.38,28.5c2,1.38,2.97,3.23,3.38,5.88c1.87,12.18,4.12,23.92,8.54,34.67c1.79,4.36,3.96,8.33,6.84,12.46"/>
+	<path id="kvg:generated-め-s2" d="M57.12,19.25c0.88,2.12,1.06,3.79,0.62,5.88c-3.12,15-13.14,39.81-18.12,48.62c-11.87,21-20.62,1.25-20.62-4.5c0-22.63,43.75-44.25,62.36-29.59c7.66,6.03,9.8,14.58,9.14,23.34c-2,26.75-32.88,28.38-32.88,16.88c0-9.38,17.38-7.12,27.12-1.12c3.1,1.91,7.25,5.25,9.5,7.5"/>
 </g>
 </g>
-<g id="kvg:StrokeNumbers_0307f" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 26.51 24.88)">1</text>
-	<text transform="matrix(1 0 0 1 71.13 52)">2</text>
+<g id="kvg:StrokeNumbers_generated_め" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 17 27)">1</text>
+	<text transform="matrix(1 0 0 1 47 17)">2</text>
 </g>
 </svg>`,
     'む': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
@@ -1000,17 +1000,17 @@ xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_03080" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:03080" kvg:element="む">
-	<path id="kvg:03080-s1" d="M19.59,31.65c2.1,1.55,4.24,1.66,6.81,1.21c8.17-1.41,15.33-2.98,23.19-4.96c2.76-0.69,5.44-1.27,7.05-1.27"/>
-	<path id="kvg:03080-s2" d="M37.02,15.5c1.62,1.25,2.31,2.88,2.12,5.25c-0.88,11.12-1.5,20.75-4,34.88c-3.61,20.44-19.25,16.99-18.62,7.37c0.5-7.74,6.25-12.86,12.62-13.5c5-0.5,14.28,1.93,5.88,15c-12.62,19.62-11.42,24.51,5.11,25.54c10.98,0.68,19.26,0.72,28.49-0.92c14.15-2.5,7.4-2.63,7.4-11.13"/>
-	<path id="kvg:03080-s3" d="M78.52,36.25c6.88,3.12,11.71,5.95,14.88,10.12c6.25,8.25-1.38,3.62-4.5,4.5"/>
+<g id="kvg:StrokePaths_generated_も" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:generated_も" kvg:element="も">
+	<path id="kvg:generated-も-s1" d="M39.12,17.5c1.25,3.12,0.93,6.74,0.38,10.25c-2.12,13.5-3,26.5-3,39.12c0,27.38,19.88,30.12,45.5,17.25"/>
+	<path id="kvg:generated-も-s2" d="M28,38 c6,0 43,-4 50,-5"/>
+	<path id="kvg:generated-も-s3" d="M24,56 c6,0 43,-3 50,-4"/>
 </g>
 </g>
-<g id="kvg:StrokeNumbers_03080" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 12.9 29)">1</text>
-	<text transform="matrix(1 0 0 1 26.65 13)">2</text>
-	<text transform="matrix(1 0 0 1 70.4 34.75)">3</text>
+<g id="kvg:StrokeNumbers_generated_も" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 30 14)">1</text>
+	<text transform="matrix(1 0 0 1 20 36)">2</text>
+	<text transform="matrix(1 0 0 1 18 54)">3</text>
 </g>
 </svg>`,
     'や': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
@@ -1342,20 +1342,1599 @@ kvg:type CDATA #IMPLIED >
 </g>
 </svg>`,
     'め': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0306c" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0306c" kvg:element="ぬ">
+	<path id="kvg:0306c-s1" d="M25.38,28.5c2,1.38,2.97,3.23,3.38,5.88c1.87,12.18,4.12,23.92,8.54,34.67c1.79,4.36,3.96,8.33,6.84,12.46"/>
+	<path id="kvg:0306c-s2" d="M57.12,19.25c0.88,2.12,1.06,3.79,0.62,5.88c-3.12,15-13.14,39.81-18.12,48.62c-11.87,21-20.62,1.25-20.62-4.5c0-22.63,43.75-44.25,62.36-29.59c7.66,6.03,9.8,14.58,9.14,23.34c-2,26.75-32.88,28.38-32.88,16.88c0-9.38,17.38-7.12,27.12-1.12c3.1,1.91,7.25,5.25,9.5,7.5"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0306c" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 17.63 27.88)">1</text>
+	<text transform="matrix(1 0 0 1 47.25 17.25)">2</text>
+</g>
+</svg>`,
+    'も': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03057" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03057" kvg:element="し">
+	<path id="kvg:03057-s1" d="M39.12,17.5c1.25,3.12,0.93,6.74,0.38,10.25c-2.12,13.5-3,26.5-3,39.12c0,27.38,19.88,30.12,45.5,17.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03057" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 30.87 14.13)">1</text>
+</g>
+    <path d="M28,38 c6,0 43,-4 50,-5" />
+    <path d="M24,56 c6,0 43,-3 50,-4" />
+    <text transform="matrix(1 0 0 1 30 14)">1</text>
+    <text transform="matrix(1 0 0 1 20 36)">2</text>
+    <text transform="matrix(1 0 0 1 18 54)">3</text>
+    
+</svg>`,
+    'が': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0304b" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0304b" kvg:element="か">
+	<path id="kvg:0304b-s1" d="M24.62,38.62c1.88,1.62,4.65,2.33,8.62,1c25.5-8.5,29.5-4.13,29.5,7.62c0,9.38-1.24,17.46-4.25,25.25c-7.62,19.76-10.87,17.39-16.12,10.89"/>
+	<path id="kvg:0304b-s2" d="M48.5,17.5c1,1.38,1.29,4.7,0.5,7.12c-5,15.25-18.02,40.93-19.62,43.88c-3.12,5.75-6.38,11.88-9.38,16.25"/>
+	<path id="kvg:0304b-s3" d="M77.37,31.62c7.5,6.88,13.25,15.75,15,24.88"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0304b" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 16.75 37.38)">1</text>
+	<text transform="matrix(1 0 0 1 39.75 16)">2</text>
+	<text transform="matrix(1 0 0 1 70 29.75)">3</text>
+</g><g></g>
+</svg>`,
+    'ぎ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0304d" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0304d" kvg:element="き">
+	<path id="kvg:0304d-s1" d="M30.5,30.25c1.88,0.75,4.64,1.06,5.88,0.88c6.75-1,22.25-4.5,26.5-6c2.17-0.76,3.5-1.25,4.88-2.12"/>
+	<path id="kvg:0304d-s2" d="M36.25,48.7c2.01,0.85,4.97,1.2,6.29,0.99c7.23-1.13,23.82-5.09,28.37-6.79c2.32-0.86,3.75-1.41,5.22-2.4"/>
+	<path id="kvg:0304d-s3" d="M42,14.12c1.5,0.88,3.13,2.94,4,5.12c5.5,13.76,16,29.26,26.37,40.76c7.64,8.47,9.12,9.38-6,3.88"/>
+	<path id="kvg:0304d-s4" d="M33.75,83.25c10.62,9.75,27.25,8.62,38.12,5"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0304d" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 24.5 29.5)">1</text>
+	<text transform="matrix(1 0 0 1 28.13 48.13)">2</text>
+	<text transform="matrix(1 0 0 1 32.5 13)">3</text>
+	<text transform="matrix(1 0 0 1 24.5 77)">4</text>
+</g><g></g>
+</svg>`,
+    'ぐ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0304f" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0304f" kvg:element="く">
+	<path id="kvg:0304f-s1" d="M60.66,15c0.5,1.62,0.35,5.44-1,7.38c-6.75,9.62-14.3,19.08-18.62,24.5c-4,5-3.79,7.03-0.88,11c5.5,7.5,12.75,18.75,17.62,27.25c1.48,2.59,2.75,4.75,4.5,8.62"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0304f" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 53.66 12.38)">1</text>
+</g><g></g>
+</svg>`,
+    'げ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03051" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03051" kvg:element="け">
+	<path id="kvg:03051-s1" d="M24.67,19.75c1.25,1.5,2.62,3.75,2.12,6.38c-3,15.88-6.5,29.5-4.88,44.62c2.02,18.84,2.25,4.75,6.75-3.5"/>
+	<path id="kvg:03051-s2" d="M53.67,38.62c2.12,1.38,4.28,1.89,6.88,1.5c8.25-1.25,15.39-2.57,20.62-4c2.76-0.74,5.26-1.12,6.88-1.12"/>
+	<path id="kvg:03051-s3" d="M71.67,14.38c2.13,1.37,2.88,3.35,2.88,5.12c0,11.62,0.12,20.38,0.12,30.12c0,20.75-0.62,30.88-12.5,42.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03051" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 16.3 18.75)">1</text>
+	<text transform="matrix(1 0 0 1 46.68 36.88)">2</text>
+	<text transform="matrix(1 0 0 1 64.05 13.25)">3</text>
+</g><g></g>
+</svg>`,
+    'ご': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03053" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03053" kvg:element="こ">
+	<path id="kvg:03053-s1" d="M34.75,26.75c1.12,0.88,2.91,2.01,6,1.5c7.62-1.25,14.11-2.56,22.38-2.62c15.5-0.12,5.88,5-5.75,9"/>
+	<path id="kvg:03053-s2" d="M30,68.12c2.25,14.5,15.26,17.96,31,16.75c6.5-0.5,11.88-1.25,17.62-2.88"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03053" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 28 25.88)">1</text>
+	<text transform="matrix(1 0 0 1 23.75 68.13)">2</text>
+</g><g></g>
+</svg>`,
+    'ざ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03055" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03055" kvg:element="さ">
+	<path id="kvg:03055-s1" d="M27,38.9c2.42,1.33,5.38,1.47,8.32,1.06c8.79-1.24,28.67-7.76,34.15-10.43c2.79-1.36,3.78-1.91,6.28-3.53"/>
+	<path id="kvg:03055-s2" d="M41.5,13.88c1.5,0.88,3.63,2.94,4.5,5.12c5.5,13.75,15.25,27.62,26.87,39.5c7.98,8.15,6.38,10-6,3.12"/>
+	<path id="kvg:03055-s3" d="M35.25,80.5c4.5,11.75,20.88,12.5,38.38,7.5"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03055" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 21.25 38.5)">1</text>
+	<text transform="matrix(1 0 0 1 32 13)">2</text>
+	<text transform="matrix(1 0 0 1 28.25 77)">3</text>
+</g><g></g>
+</svg>`,
+    'じ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03057" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03057" kvg:element="し">
+	<path id="kvg:03057-s1" d="M39.12,17.5c1.25,3.12,0.93,6.74,0.38,10.25c-2.12,13.5-3,26.5-3,39.12c0,27.38,19.88,30.12,45.5,17.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03057" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 30.87 14.13)">1</text>
+</g><g></g>
+</svg>`,
+    'ず': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03059" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03059" kvg:element="す">
+	<path id="kvg:03059-s1" d="M15.5,37.12c2.88,2.12,6.94,1.51,12.75,0.25c16.12-3.5,36.14-5.38,46.62-6.5c7-0.75,11.88-0.62,17.75,0.12"/>
+	<path id="kvg:03059-s2" d="M57.62,13.38c2,1.5,2.75,3.25,2.75,5.88c0,10.38,0,35.12,0,40.75c0,14.62-15.62,16.38-15.62,1.75c0-14.25,18-14.12,18,6.38c0,13.25-7.75,21.5-16,28.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03059" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 9.12 35.5)">1</text>
+	<text transform="matrix(1 0 0 1 49 14.13)">2</text>
+</g><g></g>
+</svg>`,
+    'ぜ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0305b" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0305b" kvg:element="せ">
+	<path id="kvg:0305b-s1" d="M16.5,49.93c2.88,2.42,6.86,1.57,12.75,0.53c19-3.34,33-5.72,47.12-7.64c6.99-0.95,11.88-1.21,17.75-0.36"/>
+	<path id="kvg:0305b-s2" d="M69.74,17.75c2,1.5,2.75,3.25,2.75,5.88c0,10.38,0,17.88,0,23.5c0,25.62-5.75,23.25-11.88,19"/>
+	<path id="kvg:0305b-s3" d="M35.62,26.25c2,1.5,2.75,3.25,2.75,5.88c0,10.38,0,28.38,0,34c0,14.5,6.38,19.55,20.14,19.55c10.24,0,13.74,0.07,22.61-1.68"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0305b" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 10.12 48.5)">1</text>
+	<text transform="matrix(1 0 0 1 61.25 16.5)">2</text>
+	<text transform="matrix(1 0 0 1 27.75 25.25)">3</text>
+</g><g></g>
+</svg>`,
+    'ぞ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0305d" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0305d" kvg:element="そ">
+	<path id="kvg:0305d-s1" d="M38.4,22c1.88,1.25,4.98,1.05,7.5,0.38c6.5-1.75,13.25-3.75,19.38-5.38c4.63-1.23,7.18,2.06,3.62,5.25c-12.12,10.87-31.14,24.4-40,30.25c-6.25,4.12-5.88,5.75,1.38,3.88c17.08-4.42,35.96-8.68,50.12-10.38c9.38-1.12,9.62,0.12,0.5,1.38c-15.82,2.17-34.38,14.25-34.38,26.5c0,12.88,11.62,20.38,31.5,16.62"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0305d" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 31.9 20.5)">1</text>
+</g><g></g>
+</svg>`,
+    'だ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0305f" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0305f" kvg:element="た">
+	<path id="kvg:0305f-s1" d="M24.38,35.38c1.38,0.62,3.88,1.51,6.38,1.12c6.5-1,16.25-2.88,24.88-4.75c2.64-0.57,5.38-1.5,7.62-2.38"/>
+	<path id="kvg:0305f-s2" d="M45,16.88c0.75,1.25,0.87,3.62,0.38,5.25c-6.35,20.94-12.75,36.37-18.88,52.37c-1.36,3.56-4.75,11.75-6,14.62"/>
+	<path id="kvg:0305f-s3" d="M56.38,53.25c12.38-2.75,18.25-3.7,23.62-3.12c15.12,1.62-1.12,2.25-4.25,4.88"/>
+	<path id="kvg:0305f-s4" d="M54.13,82.25c4.38,7,14.25,8.12,34.5,5.62"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0305f" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 16.88 34.88)">1</text>
+	<text transform="matrix(1 0 0 1 35.13 16.25)">2</text>
+	<text transform="matrix(1 0 0 1 52.26 50.63)">3</text>
+	<text transform="matrix(1 0 0 1 46.76 80)">4</text>
+</g><g></g>
+</svg>`,
+    'ぢ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03061" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03061" kvg:element="ち">
+	<path id="kvg:03061-s1" d="M24.5,32.62c1.38,0.62,3.88,1.51,6.38,1.12c6.5-1,18.25-4.12,26.88-6c2.64-0.57,5.38-1.5,7.62-2.38"/>
+	<path id="kvg:03061-s2" d="M45.62,15.62c0.75,1.25,0.71,3.58,0.38,5.25c-3,15-4.25,22.59-8.38,38.62c-3.25,12.62-5.38,11.12,3.62,4.38c8.29-6.21,19.75-9.5,28.5-9.5c8.62,0,14.58,5.88,14.5,14.5c-0.12,13.5-16.5,20.62-29.88,23.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03061" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 20 28.88)">1</text>
+	<text transform="matrix(1 0 0 1 36.75 15.5)">2</text>
+</g><g></g>
+</svg>`,
+    'づ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03064" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03064" kvg:element="つ">
+	<path id="kvg:03064-s1" d="M14,44.75c1.88,1.62,4.68,2.09,8.12,0.62c17.88-7.62,30-11.12,44.88-10.88c12.56,0.21,22.98,7.17,22.87,19.17c-0.18,18.77-24.75,28.71-45.01,32.08"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03064" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 9.76 40.38)">1</text>
+</g><g></g>
+</svg>`,
+    'で': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03066" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03066" kvg:element="て">
+	<path id="kvg:03066-s1" d="M20.5,26.38c1.87,1.62,4.42,1.97,8.12,1.37c21.75-3.5,33-5.12,50.12-8.38c12.34-2.34,13-0.88,0.38,1.38c-17.89,3.19-33.78,19.12-33.78,37.62c0,20.5,17.91,30.25,35.16,30.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03066" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 16.37 20)">1</text>
+</g><g></g>
+</svg>`,
+    'ど': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03068" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03068" kvg:element="と">
+	<path id="kvg:03068-s1" d="M35.5,18.38c1.74,0.74,3.62,2.62,4.12,5.37c0.5,2.75,4.75,25,5.38,28.12"/>
+	<path id="kvg:03068-s2" d="M78.12,25.5c0.25,1.88,0.04,4.09-2.25,5.75c-6.37,4.63-13.22,8.49-22.75,15.25c-12.88,9.12-21.62,18.38-21.62,27.5c0,10.12,8.5,13.88,26.88,13.88c6.25,0,14.75-0.12,21.62-1.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03068" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 27.87 18.75)">1</text>
+	<text transform="matrix(1 0 0 1 69.25 22.25)">2</text>
+</g><g></g>
+</svg>`,
+    'ば': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0306f" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0306f" kvg:element="は">
+	<path id="kvg:0306f-s1" d="M24.51,18c1.25,1.5,2.15,4,1.62,6.62c-3.5,17.62-6.98,36.4-4,54.88c2.5,15.5,1.12,2,5.62-6.25"/>
+	<path id="kvg:0306f-s2" d="M49.64,37.89c2.41,1.57,4.85,2.16,7.8,1.71c9.36-1.43,17.46-2.94,23.4-4.57c3.12-0.86,5.96-1.29,7.8-1.29"/>
+	<path id="kvg:0306f-s3" d="M69.77,16.5c2.25,2.12,2.88,4.12,2.88,6.5c0,2.38,1.5,38.62,1.5,48c0,22.5-30.62,19.62-30.62,10.5c0-9.75,23.88-5.62,29.5-2.88c5.62,2.74,11.98,8.26,13.36,9.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0306f" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 16.89 17.63)">1</text>
+	<text transform="matrix(1 0 0 1 43.02 36.38)">2</text>
+	<text transform="matrix(1 0 0 1 59.89 16)">3</text>
+</g><g></g>
+</svg>`,
+    'び': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03072" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03072" kvg:element="ひ">
+	<path id="kvg:03072-s1" d="M20,25.12c1.25,0.88,3.75,2.25,6.5,1.38c2.75-0.87,7.31-2.38,11.38-4.5c6-3.12,8.42-1.01,4.25,4c-27.13,32.62-23.76,58.5-1.52,62.88c18.07,3.56,37.63-16.38,35.63-56.51c-0.72-14.5-0.17-14.78,4.12-1.75c3.76,11.38,10.26,20.76,16.14,26.5"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03072" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 15.25 21.38)">1</text>
+</g><g></g>
+</svg>`,
+    'ぶ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03075" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03075" kvg:element="ふ">
+	<path id="kvg:03075-s1" d="M42.63,15.62c3.62,3.38,7.5,5.38,12.74,6.13c9.59,1.37,3.5,3.38-1.88,6.12"/>
+	<path id="kvg:03075-s2" d="M43.63,46.88c1.88,4.62,7.5,9.41,14.25,17.5c10.62,12.74,0.49,30-19.13,21.62"/>
+	<path id="kvg:03075-s3" d="M16.5,73.38c0.75,4,1.88,8.12,5,10.12c1.16,0.74,0.12-3.38,13.25-9.12"/>
+	<path id="kvg:03075-s4" d="M80.13,61.88c5.12,3.38,10.28,7.49,11.38,8.88c6.75,8.5-0.25,4.62-4.62,7.12"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03075" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 36.75 13.88)">1</text>
+	<text transform="matrix(1 0 0 1 37.75 43.88)">2</text>
+	<text transform="matrix(1 0 0 1 13.5 67.63)">3</text>
+	<text transform="matrix(1 0 0 1 69.38 59.13)">4</text>
+</g><g></g>
+</svg>`,
+    'べ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03078" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03078" kvg:element="へ">
+	<path id="kvg:03078-s1" d="M15,48.75c2.25,1.62,4.67,1.96,7-0.38c3.62-3.62,7.46-6.54,11.25-10.5c5.5-5.75,8.48-4.75,13.12-0.88c12.12,10.12,30.38,25.12,33.38,27.38c3,2.26,12.37,10.38,13.87,11.63"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03078" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 9.87 42.75)">1</text>
+</g><g></g>
+</svg>`,
+    'ぼ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0307b" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0307b" kvg:element="ほ">
+	<path id="kvg:0307b-s1" d="M24.51,18.75c1.25,1.5,2.15,4,1.62,6.62c-3.5,17.63-6.98,37.4-4,55.88c2.5,15.5,1.12,2,5.62-6.25"/>
+	<path id="kvg:0307b-s2" d="M53.08,21.13c1.9,1.28,3.82,1.76,6.14,1.4c7.36-1.17,13.73-2.4,18.41-3.73c2.46-0.7,4.69-1.05,6.13-1.05"/>
+	<path id="kvg:0307b-s3" d="M53.83,44.3c2.21,1.44,4.46,1.98,7.16,1.57c8.59-1.31,15.78-2.44,21.23-3.94c2.87-0.79,5.72-1.18,7.41-1.18"/>
+	<path id="kvg:0307b-s4" d="M72.51,23c1.38,1.62,1.62,4.12,1.62,6.5c0,2.38,2,35.12,2,44.5c0,17.5-29.88,17.12-29.88,8c0-9.75,21.38-7.88,29.5-2.88c5.33,3.28,12,8.25,13.38,9.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0307b" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 17.13 18.13)">1</text>
+	<text transform="matrix(1 0 0 1 46.38 20.5)">2</text>
+	<text transform="matrix(1 0 0 1 45.51 46)">3</text>
+	<text transform="matrix(1 0 0 1 66.13 29.38)">4</text>
+</g><g></g>
+</svg>`,
+    'ぱ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0306f" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0306f" kvg:element="は">
+	<path id="kvg:0306f-s1" d="M24.51,18c1.25,1.5,2.15,4,1.62,6.62c-3.5,17.62-6.98,36.4-4,54.88c2.5,15.5,1.12,2,5.62-6.25"/>
+	<path id="kvg:0306f-s2" d="M49.64,37.89c2.41,1.57,4.85,2.16,7.8,1.71c9.36-1.43,17.46-2.94,23.4-4.57c3.12-0.86,5.96-1.29,7.8-1.29"/>
+	<path id="kvg:0306f-s3" d="M69.77,16.5c2.25,2.12,2.88,4.12,2.88,6.5c0,2.38,1.5,38.62,1.5,48c0,22.5-30.62,19.62-30.62,10.5c0-9.75,23.88-5.62,29.5-2.88c5.62,2.74,11.98,8.26,13.36,9.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0306f" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 16.89 17.63)">1</text>
+	<text transform="matrix(1 0 0 1 43.02 36.38)">2</text>
+	<text transform="matrix(1 0 0 1 59.89 16)">3</text>
+</g><g></g>
+</svg>`,
+    'ぴ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03072" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03072" kvg:element="ひ">
+	<path id="kvg:03072-s1" d="M20,25.12c1.25,0.88,3.75,2.25,6.5,1.38c2.75-0.87,7.31-2.38,11.38-4.5c6-3.12,8.42-1.01,4.25,4c-27.13,32.62-23.76,58.5-1.52,62.88c18.07,3.56,37.63-16.38,35.63-56.51c-0.72-14.5-0.17-14.78,4.12-1.75c3.76,11.38,10.26,20.76,16.14,26.5"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03072" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 15.25 21.38)">1</text>
+</g><g></g>
+</svg>`,
+    'ぷ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03075" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03075" kvg:element="ふ">
+	<path id="kvg:03075-s1" d="M42.63,15.62c3.62,3.38,7.5,5.38,12.74,6.13c9.59,1.37,3.5,3.38-1.88,6.12"/>
+	<path id="kvg:03075-s2" d="M43.63,46.88c1.88,4.62,7.5,9.41,14.25,17.5c10.62,12.74,0.49,30-19.13,21.62"/>
+	<path id="kvg:03075-s3" d="M16.5,73.38c0.75,4,1.88,8.12,5,10.12c1.16,0.74,0.12-3.38,13.25-9.12"/>
+	<path id="kvg:03075-s4" d="M80.13,61.88c5.12,3.38,10.28,7.49,11.38,8.88c6.75,8.5-0.25,4.62-4.62,7.12"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03075" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 36.75 13.88)">1</text>
+	<text transform="matrix(1 0 0 1 37.75 43.88)">2</text>
+	<text transform="matrix(1 0 0 1 13.5 67.63)">3</text>
+	<text transform="matrix(1 0 0 1 69.38 59.13)">4</text>
+</g><g></g>
+</svg>`,
+    'ぺ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03078" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03078" kvg:element="へ">
+	<path id="kvg:03078-s1" d="M15,48.75c2.25,1.62,4.67,1.96,7-0.38c3.62-3.62,7.46-6.54,11.25-10.5c5.5-5.75,8.48-4.75,13.12-0.88c12.12,10.12,30.38,25.12,33.38,27.38c3,2.26,12.37,10.38,13.87,11.63"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03078" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 9.87 42.75)">1</text>
+</g><g></g>
+</svg>`,
+    'ぽ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0307b" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0307b" kvg:element="ほ">
+	<path id="kvg:0307b-s1" d="M24.51,18.75c1.25,1.5,2.15,4,1.62,6.62c-3.5,17.63-6.98,37.4-4,55.88c2.5,15.5,1.12,2,5.62-6.25"/>
+	<path id="kvg:0307b-s2" d="M53.08,21.13c1.9,1.28,3.82,1.76,6.14,1.4c7.36-1.17,13.73-2.4,18.41-3.73c2.46-0.7,4.69-1.05,6.13-1.05"/>
+	<path id="kvg:0307b-s3" d="M53.83,44.3c2.21,1.44,4.46,1.98,7.16,1.57c8.59-1.31,15.78-2.44,21.23-3.94c2.87-0.79,5.72-1.18,7.41-1.18"/>
+	<path id="kvg:0307b-s4" d="M72.51,23c1.38,1.62,1.62,4.12,1.62,6.5c0,2.38,2,35.12,2,44.5c0,17.5-29.88,17.12-29.88,8c0-9.75,21.38-7.88,29.5-2.88c5.33,3.28,12,8.25,13.38,9.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0307b" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 17.13 18.13)">1</text>
+	<text transform="matrix(1 0 0 1 46.38 20.5)">2</text>
+	<text transform="matrix(1 0 0 1 45.51 46)">3</text>
+	<text transform="matrix(1 0 0 1 66.13 29.38)">4</text>
+</g><g></g>
+</svg>`,
+    'きゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0304d" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0304d" kvg:element="き">
+	<path id="kvg:0304d-s1" d="M30.5,30.25c1.88,0.75,4.64,1.06,5.88,0.88c6.75-1,22.25-4.5,26.5-6c2.17-0.76,3.5-1.25,4.88-2.12"/>
+	<path id="kvg:0304d-s2" d="M36.25,48.7c2.01,0.85,4.97,1.2,6.29,0.99c7.23-1.13,23.82-5.09,28.37-6.79c2.32-0.86,3.75-1.41,5.22-2.4"/>
+	<path id="kvg:0304d-s3" d="M42,14.12c1.5,0.88,3.13,2.94,4,5.12c5.5,13.76,16,29.26,26.37,40.76c7.64,8.47,9.12,9.38-6,3.88"/>
+	<path id="kvg:0304d-s4" d="M33.75,83.25c10.62,9.75,27.25,8.62,38.12,5"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0304d" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 24.5 29.5)">1</text>
+	<text transform="matrix(1 0 0 1 28.13 48.13)">2</text>
+	<text transform="matrix(1 0 0 1 32.5 13)">3</text>
+	<text transform="matrix(1 0 0 1 24.5 77)">4</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03084" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03084" kvg:element="や">
+	<path id="kvg:03084-s1" d="M18,49.38c1.88,1.62,5.25,2.5,8.62,0.88c18.51-8.88,35.76-19.38,50.83-19.26c9.02,0.14,16.01,4.13,15.93,12.29c0,8.33-10.88,16.58-24.5,17.83"/>
+	<path id="kvg:03084-s2" d="M47.13,15.88c5.12,0.88,10.41,4.05,11.5,6.62c2.12,5-1,2.38-2.88,2.62"/>
+	<path id="kvg:03084-s3" d="M30,24.38c2.38,1.88,3.28,2.87,3.88,5.25c2.62,10.5,11.12,41.12,14.75,52.5c0.65,2.04,1.88,6.25,2.88,9.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03084" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.88 44.13)">5</text>
+	<text transform="matrix(1 0 0 1 39.88 13.88)">6</text>
+	<text transform="matrix(1 0 0 1 19.26 25)">7</text>
+</g></g>
+</svg>`,
+    'きゅ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0304d" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0304d" kvg:element="き">
+	<path id="kvg:0304d-s1" d="M30.5,30.25c1.88,0.75,4.64,1.06,5.88,0.88c6.75-1,22.25-4.5,26.5-6c2.17-0.76,3.5-1.25,4.88-2.12"/>
+	<path id="kvg:0304d-s2" d="M36.25,48.7c2.01,0.85,4.97,1.2,6.29,0.99c7.23-1.13,23.82-5.09,28.37-6.79c2.32-0.86,3.75-1.41,5.22-2.4"/>
+	<path id="kvg:0304d-s3" d="M42,14.12c1.5,0.88,3.13,2.94,4,5.12c5.5,13.76,16,29.26,26.37,40.76c7.64,8.47,9.12,9.38-6,3.88"/>
+	<path id="kvg:0304d-s4" d="M33.75,83.25c10.62,9.75,27.25,8.62,38.12,5"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0304d" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 24.5 29.5)">1</text>
+	<text transform="matrix(1 0 0 1 28.13 48.13)">2</text>
+	<text transform="matrix(1 0 0 1 32.5 13)">3</text>
+	<text transform="matrix(1 0 0 1 24.5 77)">4</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03086" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03086" kvg:element="ゆ">
+	<path id="kvg:03086-s1" d="M21.05,25.38c1.38,1.5,2.02,4.13,1.5,6.25c-2.88,11.75-4,22.25-2.12,35c2.77,18.85,1.12,3.88,3.25-1.5c9-22.75,27.24-34.5,44.38-34.5c16.88,0,21.88,11.38,21.88,20.25c0,27.38-30.88,29.62-43,16.75"/>
+	<path id="kvg:03086-s2" d="M58.42,16.75c2.62,1.75,3.17,3.13,3.5,7.12c0.88,10.5,1.4,18.72,1.62,29.38c0.5,24-6.25,32-12.38,39.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03086" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.67 22)">5</text>
+	<text transform="matrix(1 0 0 1 49.8 15.88)">6</text>
+</g></g>
+</svg>`,
+    'きょ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0304d" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0304d" kvg:element="き">
+	<path id="kvg:0304d-s1" d="M30.5,30.25c1.88,0.75,4.64,1.06,5.88,0.88c6.75-1,22.25-4.5,26.5-6c2.17-0.76,3.5-1.25,4.88-2.12"/>
+	<path id="kvg:0304d-s2" d="M36.25,48.7c2.01,0.85,4.97,1.2,6.29,0.99c7.23-1.13,23.82-5.09,28.37-6.79c2.32-0.86,3.75-1.41,5.22-2.4"/>
+	<path id="kvg:0304d-s3" d="M42,14.12c1.5,0.88,3.13,2.94,4,5.12c5.5,13.76,16,29.26,26.37,40.76c7.64,8.47,9.12,9.38-6,3.88"/>
+	<path id="kvg:0304d-s4" d="M33.75,83.25c10.62,9.75,27.25,8.62,38.12,5"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0304d" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 24.5 29.5)">1</text>
+	<text transform="matrix(1 0 0 1 28.13 48.13)">2</text>
+	<text transform="matrix(1 0 0 1 32.5 13)">3</text>
+	<text transform="matrix(1 0 0 1 24.5 77)">4</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03088" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03088" kvg:element="よ">
+	<path id="kvg:03088-s1" d="M58.24,35.38c7.5-1.28,13.74-2.63,18.5-4.1c2.5-0.77,4.77-1.15,6.25-1.15"/>
+	<path id="kvg:03088-s2" d="M54.62,13.88c2.25,2.12,2.98,4.13,2.88,6.5c-0.75,17-0.12,34.88,1.39,53.5c1.88,23.07-34.89,20.88-34.89,11.5c0-12,26.25-8,35.98-4.12c8.1,3.23,11.52,4.88,18.52,10.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03088" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 61.62 28.88)">5</text>
+	<text transform="matrix(1 0 0 1 45.62 14.63)">6</text>
+</g></g>
+</svg>`,
+    'ぎゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0304d" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0304d" kvg:element="き">
+	<path id="kvg:0304d-s1" d="M30.5,30.25c1.88,0.75,4.64,1.06,5.88,0.88c6.75-1,22.25-4.5,26.5-6c2.17-0.76,3.5-1.25,4.88-2.12"/>
+	<path id="kvg:0304d-s2" d="M36.25,48.7c2.01,0.85,4.97,1.2,6.29,0.99c7.23-1.13,23.82-5.09,28.37-6.79c2.32-0.86,3.75-1.41,5.22-2.4"/>
+	<path id="kvg:0304d-s3" d="M42,14.12c1.5,0.88,3.13,2.94,4,5.12c5.5,13.76,16,29.26,26.37,40.76c7.64,8.47,9.12,9.38-6,3.88"/>
+	<path id="kvg:0304d-s4" d="M33.75,83.25c10.62,9.75,27.25,8.62,38.12,5"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0304d" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 24.5 29.5)">1</text>
+	<text transform="matrix(1 0 0 1 28.13 48.13)">2</text>
+	<text transform="matrix(1 0 0 1 32.5 13)">3</text>
+	<text transform="matrix(1 0 0 1 24.5 77)">4</text>
+</g><g></g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03084" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03084" kvg:element="や">
+	<path id="kvg:03084-s1" d="M18,49.38c1.88,1.62,5.25,2.5,8.62,0.88c18.51-8.88,35.76-19.38,50.83-19.26c9.02,0.14,16.01,4.13,15.93,12.29c0,8.33-10.88,16.58-24.5,17.83"/>
+	<path id="kvg:03084-s2" d="M47.13,15.88c5.12,0.88,10.41,4.05,11.5,6.62c2.12,5-1,2.38-2.88,2.62"/>
+	<path id="kvg:03084-s3" d="M30,24.38c2.38,1.88,3.28,2.87,3.88,5.25c2.62,10.5,11.12,41.12,14.75,52.5c0.65,2.04,1.88,6.25,2.88,9.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03084" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.88 44.13)">5</text>
+	<text transform="matrix(1 0 0 1 39.88 13.88)">6</text>
+	<text transform="matrix(1 0 0 1 19.26 25)">7</text>
+</g></g>
+</svg>`,
+    'ぎゅ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0304d" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0304d" kvg:element="き">
+	<path id="kvg:0304d-s1" d="M30.5,30.25c1.88,0.75,4.64,1.06,5.88,0.88c6.75-1,22.25-4.5,26.5-6c2.17-0.76,3.5-1.25,4.88-2.12"/>
+	<path id="kvg:0304d-s2" d="M36.25,48.7c2.01,0.85,4.97,1.2,6.29,0.99c7.23-1.13,23.82-5.09,28.37-6.79c2.32-0.86,3.75-1.41,5.22-2.4"/>
+	<path id="kvg:0304d-s3" d="M42,14.12c1.5,0.88,3.13,2.94,4,5.12c5.5,13.76,16,29.26,26.37,40.76c7.64,8.47,9.12,9.38-6,3.88"/>
+	<path id="kvg:0304d-s4" d="M33.75,83.25c10.62,9.75,27.25,8.62,38.12,5"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0304d" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 24.5 29.5)">1</text>
+	<text transform="matrix(1 0 0 1 28.13 48.13)">2</text>
+	<text transform="matrix(1 0 0 1 32.5 13)">3</text>
+	<text transform="matrix(1 0 0 1 24.5 77)">4</text>
+</g><g></g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03086" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03086" kvg:element="ゆ">
+	<path id="kvg:03086-s1" d="M21.05,25.38c1.38,1.5,2.02,4.13,1.5,6.25c-2.88,11.75-4,22.25-2.12,35c2.77,18.85,1.12,3.88,3.25-1.5c9-22.75,27.24-34.5,44.38-34.5c16.88,0,21.88,11.38,21.88,20.25c0,27.38-30.88,29.62-43,16.75"/>
+	<path id="kvg:03086-s2" d="M58.42,16.75c2.62,1.75,3.17,3.13,3.5,7.12c0.88,10.5,1.4,18.72,1.62,29.38c0.5,24-6.25,32-12.38,39.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03086" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.67 22)">5</text>
+	<text transform="matrix(1 0 0 1 49.8 15.88)">6</text>
+</g></g>
+</svg>`,
+    'ぎょ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0304d" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0304d" kvg:element="き">
+	<path id="kvg:0304d-s1" d="M30.5,30.25c1.88,0.75,4.64,1.06,5.88,0.88c6.75-1,22.25-4.5,26.5-6c2.17-0.76,3.5-1.25,4.88-2.12"/>
+	<path id="kvg:0304d-s2" d="M36.25,48.7c2.01,0.85,4.97,1.2,6.29,0.99c7.23-1.13,23.82-5.09,28.37-6.79c2.32-0.86,3.75-1.41,5.22-2.4"/>
+	<path id="kvg:0304d-s3" d="M42,14.12c1.5,0.88,3.13,2.94,4,5.12c5.5,13.76,16,29.26,26.37,40.76c7.64,8.47,9.12,9.38-6,3.88"/>
+	<path id="kvg:0304d-s4" d="M33.75,83.25c10.62,9.75,27.25,8.62,38.12,5"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0304d" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 24.5 29.5)">1</text>
+	<text transform="matrix(1 0 0 1 28.13 48.13)">2</text>
+	<text transform="matrix(1 0 0 1 32.5 13)">3</text>
+	<text transform="matrix(1 0 0 1 24.5 77)">4</text>
+</g><g></g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03088" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03088" kvg:element="よ">
+	<path id="kvg:03088-s1" d="M58.24,35.38c7.5-1.28,13.74-2.63,18.5-4.1c2.5-0.77,4.77-1.15,6.25-1.15"/>
+	<path id="kvg:03088-s2" d="M54.62,13.88c2.25,2.12,2.98,4.13,2.88,6.5c-0.75,17-0.12,34.88,1.39,53.5c1.88,23.07-34.89,20.88-34.89,11.5c0-12,26.25-8,35.98-4.12c8.1,3.23,11.52,4.88,18.52,10.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03088" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 61.62 28.88)">5</text>
+	<text transform="matrix(1 0 0 1 45.62 14.63)">6</text>
+</g></g>
+</svg>`,
+    'しゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03057" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03057" kvg:element="し">
+	<path id="kvg:03057-s1" d="M39.12,17.5c1.25,3.12,0.93,6.74,0.38,10.25c-2.12,13.5-3,26.5-3,39.12c0,27.38,19.88,30.12,45.5,17.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03057" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 30.87 14.13)">1</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03084" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03084" kvg:element="や">
+	<path id="kvg:03084-s1" d="M18,49.38c1.88,1.62,5.25,2.5,8.62,0.88c18.51-8.88,35.76-19.38,50.83-19.26c9.02,0.14,16.01,4.13,15.93,12.29c0,8.33-10.88,16.58-24.5,17.83"/>
+	<path id="kvg:03084-s2" d="M47.13,15.88c5.12,0.88,10.41,4.05,11.5,6.62c2.12,5-1,2.38-2.88,2.62"/>
+	<path id="kvg:03084-s3" d="M30,24.38c2.38,1.88,3.28,2.87,3.88,5.25c2.62,10.5,11.12,41.12,14.75,52.5c0.65,2.04,1.88,6.25,2.88,9.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03084" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.88 44.13)">2</text>
+	<text transform="matrix(1 0 0 1 39.88 13.88)">3</text>
+	<text transform="matrix(1 0 0 1 19.26 25)">4</text>
+</g></g>
+</svg>`,
+    'しゅ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03057" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03057" kvg:element="し">
+	<path id="kvg:03057-s1" d="M39.12,17.5c1.25,3.12,0.93,6.74,0.38,10.25c-2.12,13.5-3,26.5-3,39.12c0,27.38,19.88,30.12,45.5,17.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03057" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 30.87 14.13)">1</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03086" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03086" kvg:element="ゆ">
+	<path id="kvg:03086-s1" d="M21.05,25.38c1.38,1.5,2.02,4.13,1.5,6.25c-2.88,11.75-4,22.25-2.12,35c2.77,18.85,1.12,3.88,3.25-1.5c9-22.75,27.24-34.5,44.38-34.5c16.88,0,21.88,11.38,21.88,20.25c0,27.38-30.88,29.62-43,16.75"/>
+	<path id="kvg:03086-s2" d="M58.42,16.75c2.62,1.75,3.17,3.13,3.5,7.12c0.88,10.5,1.4,18.72,1.62,29.38c0.5,24-6.25,32-12.38,39.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03086" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.67 22)">2</text>
+	<text transform="matrix(1 0 0 1 49.8 15.88)">3</text>
+</g></g>
+</svg>`,
+    'しょ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03057" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03057" kvg:element="し">
+	<path id="kvg:03057-s1" d="M39.12,17.5c1.25,3.12,0.93,6.74,0.38,10.25c-2.12,13.5-3,26.5-3,39.12c0,27.38,19.88,30.12,45.5,17.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03057" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 30.87 14.13)">1</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03088" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03088" kvg:element="よ">
+	<path id="kvg:03088-s1" d="M58.24,35.38c7.5-1.28,13.74-2.63,18.5-4.1c2.5-0.77,4.77-1.15,6.25-1.15"/>
+	<path id="kvg:03088-s2" d="M54.62,13.88c2.25,2.12,2.98,4.13,2.88,6.5c-0.75,17-0.12,34.88,1.39,53.5c1.88,23.07-34.89,20.88-34.89,11.5c0-12,26.25-8,35.98-4.12c8.1,3.23,11.52,4.88,18.52,10.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03088" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 61.62 28.88)">2</text>
+	<text transform="matrix(1 0 0 1 45.62 14.63)">3</text>
+</g></g>
+</svg>`,
+    'じゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03057" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03057" kvg:element="し">
+	<path id="kvg:03057-s1" d="M39.12,17.5c1.25,3.12,0.93,6.74,0.38,10.25c-2.12,13.5-3,26.5-3,39.12c0,27.38,19.88,30.12,45.5,17.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03057" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 30.87 14.13)">1</text>
+</g><g></g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03084" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03084" kvg:element="や">
+	<path id="kvg:03084-s1" d="M18,49.38c1.88,1.62,5.25,2.5,8.62,0.88c18.51-8.88,35.76-19.38,50.83-19.26c9.02,0.14,16.01,4.13,15.93,12.29c0,8.33-10.88,16.58-24.5,17.83"/>
+	<path id="kvg:03084-s2" d="M47.13,15.88c5.12,0.88,10.41,4.05,11.5,6.62c2.12,5-1,2.38-2.88,2.62"/>
+	<path id="kvg:03084-s3" d="M30,24.38c2.38,1.88,3.28,2.87,3.88,5.25c2.62,10.5,11.12,41.12,14.75,52.5c0.65,2.04,1.88,6.25,2.88,9.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03084" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.88 44.13)">2</text>
+	<text transform="matrix(1 0 0 1 39.88 13.88)">3</text>
+	<text transform="matrix(1 0 0 1 19.26 25)">4</text>
+</g></g>
+</svg>`,
+    'じゅ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03057" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03057" kvg:element="し">
+	<path id="kvg:03057-s1" d="M39.12,17.5c1.25,3.12,0.93,6.74,0.38,10.25c-2.12,13.5-3,26.5-3,39.12c0,27.38,19.88,30.12,45.5,17.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03057" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 30.87 14.13)">1</text>
+</g><g></g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03086" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03086" kvg:element="ゆ">
+	<path id="kvg:03086-s1" d="M21.05,25.38c1.38,1.5,2.02,4.13,1.5,6.25c-2.88,11.75-4,22.25-2.12,35c2.77,18.85,1.12,3.88,3.25-1.5c9-22.75,27.24-34.5,44.38-34.5c16.88,0,21.88,11.38,21.88,20.25c0,27.38-30.88,29.62-43,16.75"/>
+	<path id="kvg:03086-s2" d="M58.42,16.75c2.62,1.75,3.17,3.13,3.5,7.12c0.88,10.5,1.4,18.72,1.62,29.38c0.5,24-6.25,32-12.38,39.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03086" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.67 22)">2</text>
+	<text transform="matrix(1 0 0 1 49.8 15.88)">3</text>
+</g></g>
+</svg>`,
+    'じょ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03057" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03057" kvg:element="し">
+	<path id="kvg:03057-s1" d="M39.12,17.5c1.25,3.12,0.93,6.74,0.38,10.25c-2.12,13.5-3,26.5-3,39.12c0,27.38,19.88,30.12,45.5,17.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03057" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 30.87 14.13)">1</text>
+</g><g></g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03088" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03088" kvg:element="よ">
+	<path id="kvg:03088-s1" d="M58.24,35.38c7.5-1.28,13.74-2.63,18.5-4.1c2.5-0.77,4.77-1.15,6.25-1.15"/>
+	<path id="kvg:03088-s2" d="M54.62,13.88c2.25,2.12,2.98,4.13,2.88,6.5c-0.75,17-0.12,34.88,1.39,53.5c1.88,23.07-34.89,20.88-34.89,11.5c0-12,26.25-8,35.98-4.12c8.1,3.23,11.52,4.88,18.52,10.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03088" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 61.62 28.88)">2</text>
+	<text transform="matrix(1 0 0 1 45.62 14.63)">3</text>
+</g></g>
+</svg>`,
+    'ちゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03061" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03061" kvg:element="ち">
+	<path id="kvg:03061-s1" d="M24.5,32.62c1.38,0.62,3.88,1.51,6.38,1.12c6.5-1,18.25-4.12,26.88-6c2.64-0.57,5.38-1.5,7.62-2.38"/>
+	<path id="kvg:03061-s2" d="M45.62,15.62c0.75,1.25,0.71,3.58,0.38,5.25c-3,15-4.25,22.59-8.38,38.62c-3.25,12.62-5.38,11.12,3.62,4.38c8.29-6.21,19.75-9.5,28.5-9.5c8.62,0,14.58,5.88,14.5,14.5c-0.12,13.5-16.5,20.62-29.88,23.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03061" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 20 28.88)">1</text>
+	<text transform="matrix(1 0 0 1 36.75 15.5)">2</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03084" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03084" kvg:element="や">
+	<path id="kvg:03084-s1" d="M18,49.38c1.88,1.62,5.25,2.5,8.62,0.88c18.51-8.88,35.76-19.38,50.83-19.26c9.02,0.14,16.01,4.13,15.93,12.29c0,8.33-10.88,16.58-24.5,17.83"/>
+	<path id="kvg:03084-s2" d="M47.13,15.88c5.12,0.88,10.41,4.05,11.5,6.62c2.12,5-1,2.38-2.88,2.62"/>
+	<path id="kvg:03084-s3" d="M30,24.38c2.38,1.88,3.28,2.87,3.88,5.25c2.62,10.5,11.12,41.12,14.75,52.5c0.65,2.04,1.88,6.25,2.88,9.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03084" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.88 44.13)">3</text>
+	<text transform="matrix(1 0 0 1 39.88 13.88)">4</text>
+	<text transform="matrix(1 0 0 1 19.26 25)">5</text>
+</g></g>
+</svg>`,
+    'ちゅ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03061" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03061" kvg:element="ち">
+	<path id="kvg:03061-s1" d="M24.5,32.62c1.38,0.62,3.88,1.51,6.38,1.12c6.5-1,18.25-4.12,26.88-6c2.64-0.57,5.38-1.5,7.62-2.38"/>
+	<path id="kvg:03061-s2" d="M45.62,15.62c0.75,1.25,0.71,3.58,0.38,5.25c-3,15-4.25,22.59-8.38,38.62c-3.25,12.62-5.38,11.12,3.62,4.38c8.29-6.21,19.75-9.5,28.5-9.5c8.62,0,14.58,5.88,14.5,14.5c-0.12,13.5-16.5,20.62-29.88,23.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03061" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 20 28.88)">1</text>
+	<text transform="matrix(1 0 0 1 36.75 15.5)">2</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03086" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03086" kvg:element="ゆ">
+	<path id="kvg:03086-s1" d="M21.05,25.38c1.38,1.5,2.02,4.13,1.5,6.25c-2.88,11.75-4,22.25-2.12,35c2.77,18.85,1.12,3.88,3.25-1.5c9-22.75,27.24-34.5,44.38-34.5c16.88,0,21.88,11.38,21.88,20.25c0,27.38-30.88,29.62-43,16.75"/>
+	<path id="kvg:03086-s2" d="M58.42,16.75c2.62,1.75,3.17,3.13,3.5,7.12c0.88,10.5,1.4,18.72,1.62,29.38c0.5,24-6.25,32-12.38,39.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03086" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.67 22)">3</text>
+	<text transform="matrix(1 0 0 1 49.8 15.88)">4</text>
+</g></g>
+</svg>`,
+    'ちょ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03061" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03061" kvg:element="ち">
+	<path id="kvg:03061-s1" d="M24.5,32.62c1.38,0.62,3.88,1.51,6.38,1.12c6.5-1,18.25-4.12,26.88-6c2.64-0.57,5.38-1.5,7.62-2.38"/>
+	<path id="kvg:03061-s2" d="M45.62,15.62c0.75,1.25,0.71,3.58,0.38,5.25c-3,15-4.25,22.59-8.38,38.62c-3.25,12.62-5.38,11.12,3.62,4.38c8.29-6.21,19.75-9.5,28.5-9.5c8.62,0,14.58,5.88,14.5,14.5c-0.12,13.5-16.5,20.62-29.88,23.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03061" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 20 28.88)">1</text>
+	<text transform="matrix(1 0 0 1 36.75 15.5)">2</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03088" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03088" kvg:element="よ">
+	<path id="kvg:03088-s1" d="M58.24,35.38c7.5-1.28,13.74-2.63,18.5-4.1c2.5-0.77,4.77-1.15,6.25-1.15"/>
+	<path id="kvg:03088-s2" d="M54.62,13.88c2.25,2.12,2.98,4.13,2.88,6.5c-0.75,17-0.12,34.88,1.39,53.5c1.88,23.07-34.89,20.88-34.89,11.5c0-12,26.25-8,35.98-4.12c8.1,3.23,11.52,4.88,18.52,10.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03088" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 61.62 28.88)">3</text>
+	<text transform="matrix(1 0 0 1 45.62 14.63)">4</text>
+</g></g>
+</svg>`,
+    'にゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0306b" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0306b" kvg:element="に">
+	<path id="kvg:0306b-s1" d="M24.53,22.75c1.25,1.5,1.62,3.75,1.12,6.38c-3,15.88-9,32.5-7.38,47.62c2.02,18.84,4.5,5.75,8.5-3.5"/>
+	<path id="kvg:0306b-s2" d="M53.2,30.64c0.96,0.79,2.44,1.58,5.1,1.35c6.98-0.61,15.01-3.3,22.04-3.36c13.19-0.11,1.5,3.75-8.39,7.35"/>
+	<path id="kvg:0306b-s3" d="M52.53,68c1.76,12.92,11.92,16.01,24.23,14.93c5.08-0.45,8.9-0.8,14.27-2.06"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0306b" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 16.79 22.13)">1</text>
+	<text transform="matrix(1 0 0 1 46.91 29)">2</text>
+	<text transform="matrix(1 0 0 1 46.41 66)">3</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03084" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03084" kvg:element="や">
+	<path id="kvg:03084-s1" d="M18,49.38c1.88,1.62,5.25,2.5,8.62,0.88c18.51-8.88,35.76-19.38,50.83-19.26c9.02,0.14,16.01,4.13,15.93,12.29c0,8.33-10.88,16.58-24.5,17.83"/>
+	<path id="kvg:03084-s2" d="M47.13,15.88c5.12,0.88,10.41,4.05,11.5,6.62c2.12,5-1,2.38-2.88,2.62"/>
+	<path id="kvg:03084-s3" d="M30,24.38c2.38,1.88,3.28,2.87,3.88,5.25c2.62,10.5,11.12,41.12,14.75,52.5c0.65,2.04,1.88,6.25,2.88,9.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03084" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.88 44.13)">4</text>
+	<text transform="matrix(1 0 0 1 39.88 13.88)">5</text>
+	<text transform="matrix(1 0 0 1 19.26 25)">6</text>
+</g></g>
+</svg>`,
+    'にゅ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0306b" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0306b" kvg:element="に">
+	<path id="kvg:0306b-s1" d="M24.53,22.75c1.25,1.5,1.62,3.75,1.12,6.38c-3,15.88-9,32.5-7.38,47.62c2.02,18.84,4.5,5.75,8.5-3.5"/>
+	<path id="kvg:0306b-s2" d="M53.2,30.64c0.96,0.79,2.44,1.58,5.1,1.35c6.98-0.61,15.01-3.3,22.04-3.36c13.19-0.11,1.5,3.75-8.39,7.35"/>
+	<path id="kvg:0306b-s3" d="M52.53,68c1.76,12.92,11.92,16.01,24.23,14.93c5.08-0.45,8.9-0.8,14.27-2.06"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0306b" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 16.79 22.13)">1</text>
+	<text transform="matrix(1 0 0 1 46.91 29)">2</text>
+	<text transform="matrix(1 0 0 1 46.41 66)">3</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03086" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03086" kvg:element="ゆ">
+	<path id="kvg:03086-s1" d="M21.05,25.38c1.38,1.5,2.02,4.13,1.5,6.25c-2.88,11.75-4,22.25-2.12,35c2.77,18.85,1.12,3.88,3.25-1.5c9-22.75,27.24-34.5,44.38-34.5c16.88,0,21.88,11.38,21.88,20.25c0,27.38-30.88,29.62-43,16.75"/>
+	<path id="kvg:03086-s2" d="M58.42,16.75c2.62,1.75,3.17,3.13,3.5,7.12c0.88,10.5,1.4,18.72,1.62,29.38c0.5,24-6.25,32-12.38,39.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03086" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.67 22)">4</text>
+	<text transform="matrix(1 0 0 1 49.8 15.88)">5</text>
+</g></g>
+</svg>`,
+    'にょ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0306b" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0306b" kvg:element="に">
+	<path id="kvg:0306b-s1" d="M24.53,22.75c1.25,1.5,1.62,3.75,1.12,6.38c-3,15.88-9,32.5-7.38,47.62c2.02,18.84,4.5,5.75,8.5-3.5"/>
+	<path id="kvg:0306b-s2" d="M53.2,30.64c0.96,0.79,2.44,1.58,5.1,1.35c6.98-0.61,15.01-3.3,22.04-3.36c13.19-0.11,1.5,3.75-8.39,7.35"/>
+	<path id="kvg:0306b-s3" d="M52.53,68c1.76,12.92,11.92,16.01,24.23,14.93c5.08-0.45,8.9-0.8,14.27-2.06"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0306b" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 16.79 22.13)">1</text>
+	<text transform="matrix(1 0 0 1 46.91 29)">2</text>
+	<text transform="matrix(1 0 0 1 46.41 66)">3</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03088" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03088" kvg:element="よ">
+	<path id="kvg:03088-s1" d="M58.24,35.38c7.5-1.28,13.74-2.63,18.5-4.1c2.5-0.77,4.77-1.15,6.25-1.15"/>
+	<path id="kvg:03088-s2" d="M54.62,13.88c2.25,2.12,2.98,4.13,2.88,6.5c-0.75,17-0.12,34.88,1.39,53.5c1.88,23.07-34.89,20.88-34.89,11.5c0-12,26.25-8,35.98-4.12c8.1,3.23,11.52,4.88,18.52,10.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03088" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 61.62 28.88)">4</text>
+	<text transform="matrix(1 0 0 1 45.62 14.63)">5</text>
+</g></g>
+</svg>`,
+    'ひゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03072" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03072" kvg:element="ひ">
+	<path id="kvg:03072-s1" d="M20,25.12c1.25,0.88,3.75,2.25,6.5,1.38c2.75-0.87,7.31-2.38,11.38-4.5c6-3.12,8.42-1.01,4.25,4c-27.13,32.62-23.76,58.5-1.52,62.88c18.07,3.56,37.63-16.38,35.63-56.51c-0.72-14.5-0.17-14.78,4.12-1.75c3.76,11.38,10.26,20.76,16.14,26.5"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03072" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 15.25 21.38)">1</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03084" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03084" kvg:element="や">
+	<path id="kvg:03084-s1" d="M18,49.38c1.88,1.62,5.25,2.5,8.62,0.88c18.51-8.88,35.76-19.38,50.83-19.26c9.02,0.14,16.01,4.13,15.93,12.29c0,8.33-10.88,16.58-24.5,17.83"/>
+	<path id="kvg:03084-s2" d="M47.13,15.88c5.12,0.88,10.41,4.05,11.5,6.62c2.12,5-1,2.38-2.88,2.62"/>
+	<path id="kvg:03084-s3" d="M30,24.38c2.38,1.88,3.28,2.87,3.88,5.25c2.62,10.5,11.12,41.12,14.75,52.5c0.65,2.04,1.88,6.25,2.88,9.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03084" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.88 44.13)">2</text>
+	<text transform="matrix(1 0 0 1 39.88 13.88)">3</text>
+	<text transform="matrix(1 0 0 1 19.26 25)">4</text>
+</g></g>
+</svg>`,
+    'ひゅ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03072" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03072" kvg:element="ひ">
+	<path id="kvg:03072-s1" d="M20,25.12c1.25,0.88,3.75,2.25,6.5,1.38c2.75-0.87,7.31-2.38,11.38-4.5c6-3.12,8.42-1.01,4.25,4c-27.13,32.62-23.76,58.5-1.52,62.88c18.07,3.56,37.63-16.38,35.63-56.51c-0.72-14.5-0.17-14.78,4.12-1.75c3.76,11.38,10.26,20.76,16.14,26.5"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03072" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 15.25 21.38)">1</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03086" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03086" kvg:element="ゆ">
+	<path id="kvg:03086-s1" d="M21.05,25.38c1.38,1.5,2.02,4.13,1.5,6.25c-2.88,11.75-4,22.25-2.12,35c2.77,18.85,1.12,3.88,3.25-1.5c9-22.75,27.24-34.5,44.38-34.5c16.88,0,21.88,11.38,21.88,20.25c0,27.38-30.88,29.62-43,16.75"/>
+	<path id="kvg:03086-s2" d="M58.42,16.75c2.62,1.75,3.17,3.13,3.5,7.12c0.88,10.5,1.4,18.72,1.62,29.38c0.5,24-6.25,32-12.38,39.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03086" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.67 22)">2</text>
+	<text transform="matrix(1 0 0 1 49.8 15.88)">3</text>
+</g></g>
+</svg>`,
+    'ひょ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03072" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03072" kvg:element="ひ">
+	<path id="kvg:03072-s1" d="M20,25.12c1.25,0.88,3.75,2.25,6.5,1.38c2.75-0.87,7.31-2.38,11.38-4.5c6-3.12,8.42-1.01,4.25,4c-27.13,32.62-23.76,58.5-1.52,62.88c18.07,3.56,37.63-16.38,35.63-56.51c-0.72-14.5-0.17-14.78,4.12-1.75c3.76,11.38,10.26,20.76,16.14,26.5"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03072" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 15.25 21.38)">1</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03088" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03088" kvg:element="よ">
+	<path id="kvg:03088-s1" d="M58.24,35.38c7.5-1.28,13.74-2.63,18.5-4.1c2.5-0.77,4.77-1.15,6.25-1.15"/>
+	<path id="kvg:03088-s2" d="M54.62,13.88c2.25,2.12,2.98,4.13,2.88,6.5c-0.75,17-0.12,34.88,1.39,53.5c1.88,23.07-34.89,20.88-34.89,11.5c0-12,26.25-8,35.98-4.12c8.1,3.23,11.52,4.88,18.52,10.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03088" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 61.62 28.88)">2</text>
+	<text transform="matrix(1 0 0 1 45.62 14.63)">3</text>
+</g></g>
+</svg>`,
+    'びゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03072" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03072" kvg:element="ひ">
+	<path id="kvg:03072-s1" d="M20,25.12c1.25,0.88,3.75,2.25,6.5,1.38c2.75-0.87,7.31-2.38,11.38-4.5c6-3.12,8.42-1.01,4.25,4c-27.13,32.62-23.76,58.5-1.52,62.88c18.07,3.56,37.63-16.38,35.63-56.51c-0.72-14.5-0.17-14.78,4.12-1.75c3.76,11.38,10.26,20.76,16.14,26.5"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03072" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 15.25 21.38)">1</text>
+</g><g></g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03084" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03084" kvg:element="や">
+	<path id="kvg:03084-s1" d="M18,49.38c1.88,1.62,5.25,2.5,8.62,0.88c18.51-8.88,35.76-19.38,50.83-19.26c9.02,0.14,16.01,4.13,15.93,12.29c0,8.33-10.88,16.58-24.5,17.83"/>
+	<path id="kvg:03084-s2" d="M47.13,15.88c5.12,0.88,10.41,4.05,11.5,6.62c2.12,5-1,2.38-2.88,2.62"/>
+	<path id="kvg:03084-s3" d="M30,24.38c2.38,1.88,3.28,2.87,3.88,5.25c2.62,10.5,11.12,41.12,14.75,52.5c0.65,2.04,1.88,6.25,2.88,9.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03084" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.88 44.13)">2</text>
+	<text transform="matrix(1 0 0 1 39.88 13.88)">3</text>
+	<text transform="matrix(1 0 0 1 19.26 25)">4</text>
+</g></g>
+</svg>`,
+    'びゅ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03072" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03072" kvg:element="ひ">
+	<path id="kvg:03072-s1" d="M20,25.12c1.25,0.88,3.75,2.25,6.5,1.38c2.75-0.87,7.31-2.38,11.38-4.5c6-3.12,8.42-1.01,4.25,4c-27.13,32.62-23.76,58.5-1.52,62.88c18.07,3.56,37.63-16.38,35.63-56.51c-0.72-14.5-0.17-14.78,4.12-1.75c3.76,11.38,10.26,20.76,16.14,26.5"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03072" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 15.25 21.38)">1</text>
+</g><g></g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03086" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03086" kvg:element="ゆ">
+	<path id="kvg:03086-s1" d="M21.05,25.38c1.38,1.5,2.02,4.13,1.5,6.25c-2.88,11.75-4,22.25-2.12,35c2.77,18.85,1.12,3.88,3.25-1.5c9-22.75,27.24-34.5,44.38-34.5c16.88,0,21.88,11.38,21.88,20.25c0,27.38-30.88,29.62-43,16.75"/>
+	<path id="kvg:03086-s2" d="M58.42,16.75c2.62,1.75,3.17,3.13,3.5,7.12c0.88,10.5,1.4,18.72,1.62,29.38c0.5,24-6.25,32-12.38,39.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03086" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.67 22)">2</text>
+	<text transform="matrix(1 0 0 1 49.8 15.88)">3</text>
+</g></g>
+</svg>`,
+    'びょ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03072" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03072" kvg:element="ひ">
+	<path id="kvg:03072-s1" d="M20,25.12c1.25,0.88,3.75,2.25,6.5,1.38c2.75-0.87,7.31-2.38,11.38-4.5c6-3.12,8.42-1.01,4.25,4c-27.13,32.62-23.76,58.5-1.52,62.88c18.07,3.56,37.63-16.38,35.63-56.51c-0.72-14.5-0.17-14.78,4.12-1.75c3.76,11.38,10.26,20.76,16.14,26.5"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03072" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 15.25 21.38)">1</text>
+</g><g></g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03088" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03088" kvg:element="よ">
+	<path id="kvg:03088-s1" d="M58.24,35.38c7.5-1.28,13.74-2.63,18.5-4.1c2.5-0.77,4.77-1.15,6.25-1.15"/>
+	<path id="kvg:03088-s2" d="M54.62,13.88c2.25,2.12,2.98,4.13,2.88,6.5c-0.75,17-0.12,34.88,1.39,53.5c1.88,23.07-34.89,20.88-34.89,11.5c0-12,26.25-8,35.98-4.12c8.1,3.23,11.52,4.88,18.52,10.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03088" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 61.62 28.88)">2</text>
+	<text transform="matrix(1 0 0 1 45.62 14.63)">3</text>
+</g></g>
+</svg>`,
+    'ぴゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03072" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03072" kvg:element="ひ">
+	<path id="kvg:03072-s1" d="M20,25.12c1.25,0.88,3.75,2.25,6.5,1.38c2.75-0.87,7.31-2.38,11.38-4.5c6-3.12,8.42-1.01,4.25,4c-27.13,32.62-23.76,58.5-1.52,62.88c18.07,3.56,37.63-16.38,35.63-56.51c-0.72-14.5-0.17-14.78,4.12-1.75c3.76,11.38,10.26,20.76,16.14,26.5"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03072" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 15.25 21.38)">1</text>
+</g><g></g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03084" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03084" kvg:element="や">
+	<path id="kvg:03084-s1" d="M18,49.38c1.88,1.62,5.25,2.5,8.62,0.88c18.51-8.88,35.76-19.38,50.83-19.26c9.02,0.14,16.01,4.13,15.93,12.29c0,8.33-10.88,16.58-24.5,17.83"/>
+	<path id="kvg:03084-s2" d="M47.13,15.88c5.12,0.88,10.41,4.05,11.5,6.62c2.12,5-1,2.38-2.88,2.62"/>
+	<path id="kvg:03084-s3" d="M30,24.38c2.38,1.88,3.28,2.87,3.88,5.25c2.62,10.5,11.12,41.12,14.75,52.5c0.65,2.04,1.88,6.25,2.88,9.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03084" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.88 44.13)">2</text>
+	<text transform="matrix(1 0 0 1 39.88 13.88)">3</text>
+	<text transform="matrix(1 0 0 1 19.26 25)">4</text>
+</g></g>
+</svg>`,
+    'ぴゅ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03072" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03072" kvg:element="ひ">
+	<path id="kvg:03072-s1" d="M20,25.12c1.25,0.88,3.75,2.25,6.5,1.38c2.75-0.87,7.31-2.38,11.38-4.5c6-3.12,8.42-1.01,4.25,4c-27.13,32.62-23.76,58.5-1.52,62.88c18.07,3.56,37.63-16.38,35.63-56.51c-0.72-14.5-0.17-14.78,4.12-1.75c3.76,11.38,10.26,20.76,16.14,26.5"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03072" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 15.25 21.38)">1</text>
+</g><g></g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03086" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03086" kvg:element="ゆ">
+	<path id="kvg:03086-s1" d="M21.05,25.38c1.38,1.5,2.02,4.13,1.5,6.25c-2.88,11.75-4,22.25-2.12,35c2.77,18.85,1.12,3.88,3.25-1.5c9-22.75,27.24-34.5,44.38-34.5c16.88,0,21.88,11.38,21.88,20.25c0,27.38-30.88,29.62-43,16.75"/>
+	<path id="kvg:03086-s2" d="M58.42,16.75c2.62,1.75,3.17,3.13,3.5,7.12c0.88,10.5,1.4,18.72,1.62,29.38c0.5,24-6.25,32-12.38,39.25"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03086" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.67 22)">2</text>
+	<text transform="matrix(1 0 0 1 49.8 15.88)">3</text>
+</g></g>
+</svg>`,
+    'ぴょ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03072" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03072" kvg:element="ひ">
+	<path id="kvg:03072-s1" d="M20,25.12c1.25,0.88,3.75,2.25,6.5,1.38c2.75-0.87,7.31-2.38,11.38-4.5c6-3.12,8.42-1.01,4.25,4c-27.13,32.62-23.76,58.5-1.52,62.88c18.07,3.56,37.63-16.38,35.63-56.51c-0.72-14.5-0.17-14.78,4.12-1.75c3.76,11.38,10.26,20.76,16.14,26.5"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03072" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 15.25 21.38)">1</text>
+</g><g></g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03088" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03088" kvg:element="よ">
+	<path id="kvg:03088-s1" d="M58.24,35.38c7.5-1.28,13.74-2.63,18.5-4.1c2.5-0.77,4.77-1.15,6.25-1.15"/>
+	<path id="kvg:03088-s2" d="M54.62,13.88c2.25,2.12,2.98,4.13,2.88,6.5c-0.75,17-0.12,34.88,1.39,53.5c1.88,23.07-34.89,20.88-34.89,11.5c0-12,26.25-8,35.98-4.12c8.1,3.23,11.52,4.88,18.52,10.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03088" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 61.62 28.88)">2</text>
+	<text transform="matrix(1 0 0 1 45.62 14.63)">3</text>
+</g></g>
+</svg>`,
+    'みゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
 xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
@@ -1369,2146 +2948,265 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokeNumbers_generated_め" style="font-size:8;fill:#808080">
 	<text transform="matrix(1 0 0 1 17 27)">1</text>
 	<text transform="matrix(1 0 0 1 47 17)">2</text>
-</g>
-</svg>`,
-    'も': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
 xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_も" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_も" kvg:element="も">
-	<path id="kvg:generated-も-s1" d="M39.12,17.5c1.25,3.12,0.93,6.74,0.38,10.25c-2.12,13.5-3,26.5-3,39.12c0,27.38,19.88,30.12,45.5,17.25"/>
-	<path id="kvg:generated-も-s2" d="M28,38 c6,0 43,-4 50,-5"/>
-	<path id="kvg:generated-も-s3" d="M24,56 c6,0 43,-3 50,-4"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_も" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 30 14)">1</text>
-	<text transform="matrix(1 0 0 1 20 36)">2</text>
-	<text transform="matrix(1 0 0 1 18 54)">3</text>
-</g>
-</svg>`,
-    'が': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_が" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_が" kvg:element="が">
-	<path id="kvg:generated-が-s1" d="M24.62,38.62c1.88,1.62,4.65,2.33,8.62,1c25.5-8.5,29.5-4.13,29.5,7.62c0,9.38-1.24,17.46-4.25,25.25c-7.62,19.76-10.87,17.39-16.12,10.89"/>
-	<path id="kvg:generated-が-s2" d="M48.5,17.5c1,1.38,1.29,4.7,0.5,7.12c-5,15.25-18.02,40.93-19.62,43.88c-3.12,5.75-6.38,11.88-9.38,16.25"/>
-	<path id="kvg:generated-が-s3" d="M77.37,31.62c7.5,6.88,13.25,15.75,15,24.88"/>
-	<path id="kvg:generated-が-s4" d="M87.51,26c2.75,1.75,6,5.38,7.75,8.5"/>
-	<path id="kvg:generated-が-s5" d="M93.88,21.12c3.06,1.57,6.68,4.82,8.62,7.62"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_が" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 16.75 37.38)">1</text>
-	<text transform="matrix(1 0 0 1 39.75 16)">2</text>
-	<text transform="matrix(1 0 0 1 70 29.75)">3</text>
-	<text transform="matrix(1 0 0 1 80 15)">4</text>
-	<text transform="matrix(1 0 0 1 80 25)">5</text>
-</g>
-</svg>`,
-    'ぎ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ぎ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ぎ" kvg:element="ぎ">
-	<path id="kvg:generated-ぎ-s1" d="M30.5,30.25c1.88,0.75,4.64,1.06,5.88,0.88c6.75-1,22.25-4.5,26.5-6c2.17-0.76,3.5-1.25,4.88-2.12"/>
-	<path id="kvg:generated-ぎ-s2" d="M36.25,48.7c2.01,0.85,4.97,1.2,6.29,0.99c7.23-1.13,23.82-5.09,28.37-6.79c2.32-0.86,3.75-1.41,5.22-2.4"/>
-	<path id="kvg:generated-ぎ-s3" d="M42,14.12c1.5,0.88,3.13,2.94,4,5.12c5.5,13.76,16,29.26,26.37,40.76c7.64,8.47,9.12,9.38-6,3.88"/>
-	<path id="kvg:generated-ぎ-s4" d="M33.75,83.25c10.62,9.75,27.25,8.62,38.12,5"/>
-	<path id="kvg:generated-ぎ-s5" d="M87.51,26c2.75,1.75,6,5.38,7.75,8.5"/>
-	<path id="kvg:generated-ぎ-s6" d="M93.88,21.12c3.06,1.57,6.68,4.82,8.62,7.62"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ぎ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 24.5 29.5)">1</text>
-	<text transform="matrix(1 0 0 1 28.13 48.13)">2</text>
-	<text transform="matrix(1 0 0 1 32.5 13)">3</text>
-	<text transform="matrix(1 0 0 1 24.5 77)">4</text>
-	<text transform="matrix(1 0 0 1 80 15)">5</text>
-	<text transform="matrix(1 0 0 1 80 25)">6</text>
-</g>
-</svg>`,
-    'ぐ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ぐ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ぐ" kvg:element="ぐ">
-	<path id="kvg:generated-ぐ-s1" d="M60.66,15c0.5,1.62,0.35,5.44-1,7.38c-6.75,9.62-14.3,19.08-18.62,24.5c-4,5-3.79,7.03-0.88,11c5.5,7.5,12.75,18.75,17.62,27.25c1.48,2.59,2.75,4.75,4.5,8.62"/>
-	<path id="kvg:generated-ぐ-s2" d="M87.51,26c2.75,1.75,6,5.38,7.75,8.5"/>
-	<path id="kvg:generated-ぐ-s3" d="M93.88,21.12c3.06,1.57,6.68,4.82,8.62,7.62"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ぐ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 53.66 12.38)">1</text>
-	<text transform="matrix(1 0 0 1 80 15)">2</text>
-	<text transform="matrix(1 0 0 1 80 25)">3</text>
-</g>
-</svg>`,
-    'げ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_げ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_げ" kvg:element="げ">
-	<path id="kvg:generated-げ-s1" d="M24.67,19.75c1.25,1.5,2.62,3.75,2.12,6.38c-3,15.88-6.5,29.5-4.88,44.62c2.02,18.84,2.25,4.75,6.75-3.5"/>
-	<path id="kvg:generated-げ-s2" d="M53.67,38.62c2.12,1.38,4.28,1.89,6.88,1.5c8.25-1.25,15.39-2.57,20.62-4c2.76-0.74,5.26-1.12,6.88-1.12"/>
-	<path id="kvg:generated-げ-s3" d="M71.67,14.38c2.13,1.37,2.88,3.35,2.88,5.12c0,11.62,0.12,20.38,0.12,30.12c0,20.75-0.62,30.88-12.5,42.25"/>
-	<path id="kvg:generated-げ-s4" d="M87.51,26c2.75,1.75,6,5.38,7.75,8.5"/>
-	<path id="kvg:generated-げ-s5" d="M93.88,21.12c3.06,1.57,6.68,4.82,8.62,7.62"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_げ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 16.3 18.75)">1</text>
-	<text transform="matrix(1 0 0 1 46.68 36.88)">2</text>
-	<text transform="matrix(1 0 0 1 64.05 13.25)">3</text>
-	<text transform="matrix(1 0 0 1 80 15)">4</text>
-	<text transform="matrix(1 0 0 1 80 25)">5</text>
-</g>
-</svg>`,
-    'ご': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ご" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ご" kvg:element="ご">
-	<path id="kvg:generated-ご-s1" d="M34.75,26.75c1.12,0.88,2.91,2.01,6,1.5c7.62-1.25,14.11-2.56,22.38-2.62c15.5-0.12,5.88,5-5.75,9"/>
-	<path id="kvg:generated-ご-s2" d="M30,68.12c2.25,14.5,15.26,17.96,31,16.75c6.5-0.5,11.88-1.25,17.62-2.88"/>
-	<path id="kvg:generated-ご-s3" d="M87.51,26c2.75,1.75,6,5.38,7.75,8.5"/>
-	<path id="kvg:generated-ご-s4" d="M93.88,21.12c3.06,1.57,6.68,4.82,8.62,7.62"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ご" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 28 25.88)">1</text>
-	<text transform="matrix(1 0 0 1 23.75 68.13)">2</text>
-	<text transform="matrix(1 0 0 1 80 15)">3</text>
-	<text transform="matrix(1 0 0 1 80 25)">4</text>
-</g>
-</svg>`,
-    'ざ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ざ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ざ" kvg:element="ざ">
-	<path id="kvg:generated-ざ-s1" d="M27,38.9c2.42,1.33,5.38,1.47,8.32,1.06c8.79-1.24,28.67-7.76,34.15-10.43c2.79-1.36,3.78-1.91,6.28-3.53"/>
-	<path id="kvg:generated-ざ-s2" d="M41.5,13.88c1.5,0.88,3.63,2.94,4.5,5.12c5.5,13.75,15.25,27.62,26.87,39.5c7.98,8.15,6.38,10-6,3.12"/>
-	<path id="kvg:generated-ざ-s3" d="M35.25,80.5c4.5,11.75,20.88,12.5,38.38,7.5"/>
-	<path id="kvg:generated-ざ-s4" d="M87.51,26c2.75,1.75,6,5.38,7.75,8.5"/>
-	<path id="kvg:generated-ざ-s5" d="M93.88,21.12c3.06,1.57,6.68,4.82,8.62,7.62"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ざ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 21.25 38.5)">1</text>
-	<text transform="matrix(1 0 0 1 32 13)">2</text>
-	<text transform="matrix(1 0 0 1 28.25 77)">3</text>
-	<text transform="matrix(1 0 0 1 80 15)">4</text>
-	<text transform="matrix(1 0 0 1 80 25)">5</text>
-</g>
-</svg>`,
-    'じ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_じ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_じ" kvg:element="じ">
-	<path id="kvg:generated-じ-s1" d="M39.12,17.5c1.25,3.12,0.93,6.74,0.38,10.25c-2.12,13.5-3,26.5-3,39.12c0,27.38,19.88,30.12,45.5,17.25"/>
-	<path id="kvg:generated-じ-s2" d="M87.51,26c2.75,1.75,6,5.38,7.75,8.5"/>
-	<path id="kvg:generated-じ-s3" d="M93.88,21.12c3.06,1.57,6.68,4.82,8.62,7.62"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_じ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 30.87 14.13)">1</text>
-	<text transform="matrix(1 0 0 1 80 15)">2</text>
-	<text transform="matrix(1 0 0 1 80 25)">3</text>
-</g>
-</svg>`,
-    'ず': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ず" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ず" kvg:element="ず">
-	<path id="kvg:generated-ず-s1" d="M15.5,37.12c2.88,2.12,6.94,1.51,12.75,0.25c16.12-3.5,36.14-5.38,46.62-6.5c7-0.75,11.88-0.62,17.75,0.12"/>
-	<path id="kvg:generated-ず-s2" d="M57.62,13.38c2,1.5,2.75,3.25,2.75,5.88c0,10.38,0,35.12,0,40.75c0,14.62-15.62,16.38-15.62,1.75c0-14.25,18-14.12,18,6.38c0,13.25-7.75,21.5-16,28.38"/>
-	<path id="kvg:generated-ず-s3" d="M87.51,26c2.75,1.75,6,5.38,7.75,8.5"/>
-	<path id="kvg:generated-ず-s4" d="M93.88,21.12c3.06,1.57,6.68,4.82,8.62,7.62"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ず" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 9.12 35.5)">1</text>
-	<text transform="matrix(1 0 0 1 49 14.13)">2</text>
-	<text transform="matrix(1 0 0 1 80 15)">3</text>
-	<text transform="matrix(1 0 0 1 80 25)">4</text>
-</g>
-</svg>`,
-    'ぜ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ぜ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ぜ" kvg:element="ぜ">
-	<path id="kvg:generated-ぜ-s1" d="M16.5,49.93c2.88,2.42,6.86,1.57,12.75,0.53c19-3.34,33-5.72,47.12-7.64c6.99-0.95,11.88-1.21,17.75-0.36"/>
-	<path id="kvg:generated-ぜ-s2" d="M69.74,17.75c2,1.5,2.75,3.25,2.75,5.88c0,10.38,0,17.88,0,23.5c0,25.62-5.75,23.25-11.88,19"/>
-	<path id="kvg:generated-ぜ-s3" d="M35.62,26.25c2,1.5,2.75,3.25,2.75,5.88c0,10.38,0,28.38,0,34c0,14.5,6.38,19.55,20.14,19.55c10.24,0,13.74,0.07,22.61-1.68"/>
-	<path id="kvg:generated-ぜ-s4" d="M87.51,26c2.75,1.75,6,5.38,7.75,8.5"/>
-	<path id="kvg:generated-ぜ-s5" d="M93.88,21.12c3.06,1.57,6.68,4.82,8.62,7.62"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ぜ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10.12 48.5)">1</text>
-	<text transform="matrix(1 0 0 1 61.25 16.5)">2</text>
-	<text transform="matrix(1 0 0 1 27.75 25.25)">3</text>
-	<text transform="matrix(1 0 0 1 80 15)">4</text>
-	<text transform="matrix(1 0 0 1 80 25)">5</text>
-</g>
-</svg>`,
-    'ぞ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ぞ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ぞ" kvg:element="ぞ">
-	<path id="kvg:generated-ぞ-s1" d="M38.4,22c1.88,1.25,4.98,1.05,7.5,0.38c6.5-1.75,13.25-3.75,19.38-5.38c4.63-1.23,7.18,2.06,3.62,5.25c-12.12,10.87-31.14,24.4-40,30.25c-6.25,4.12-5.88,5.75,1.38,3.88c17.08-4.42,35.96-8.68,50.12-10.38c9.38-1.12,9.62,0.12,0.5,1.38c-15.82,2.17-34.38,14.25-34.38,26.5c0,12.88,11.62,20.38,31.5,16.62"/>
-	<path id="kvg:generated-ぞ-s2" d="M87.51,26c2.75,1.75,6,5.38,7.75,8.5"/>
-	<path id="kvg:generated-ぞ-s3" d="M93.88,21.12c3.06,1.57,6.68,4.82,8.62,7.62"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ぞ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 31.9 20.5)">1</text>
-	<text transform="matrix(1 0 0 1 80 15)">2</text>
-	<text transform="matrix(1 0 0 1 80 25)">3</text>
-</g>
-</svg>`,
-    'だ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_だ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_だ" kvg:element="だ">
-	<path id="kvg:generated-だ-s1" d="M24.38,35.38c1.38,0.62,3.88,1.51,6.38,1.12c6.5-1,16.25-2.88,24.88-4.75c2.64-0.57,5.38-1.5,7.62-2.38"/>
-	<path id="kvg:generated-だ-s2" d="M45,16.88c0.75,1.25,0.87,3.62,0.38,5.25c-6.35,20.94-12.75,36.37-18.88,52.37c-1.36,3.56-4.75,11.75-6,14.62"/>
-	<path id="kvg:generated-だ-s3" d="M56.38,53.25c12.38-2.75,18.25-3.7,23.62-3.12c15.12,1.62-1.12,2.25-4.25,4.88"/>
-	<path id="kvg:generated-だ-s4" d="M54.13,82.25c4.38,7,14.25,8.12,34.5,5.62"/>
-	<path id="kvg:generated-だ-s5" d="M87.51,26c2.75,1.75,6,5.38,7.75,8.5"/>
-	<path id="kvg:generated-だ-s6" d="M93.88,21.12c3.06,1.57,6.68,4.82,8.62,7.62"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_だ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 16.88 34.88)">1</text>
-	<text transform="matrix(1 0 0 1 35.13 16.25)">2</text>
-	<text transform="matrix(1 0 0 1 52.26 50.63)">3</text>
-	<text transform="matrix(1 0 0 1 46.76 80)">4</text>
-	<text transform="matrix(1 0 0 1 80 15)">5</text>
-	<text transform="matrix(1 0 0 1 80 25)">6</text>
-</g>
-</svg>`,
-    'ぢ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ぢ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ぢ" kvg:element="ぢ">
-	<path id="kvg:generated-ぢ-s1" d="M24.5,32.62c1.38,0.62,3.88,1.51,6.38,1.12c6.5-1,18.25-4.12,26.88-6c2.64-0.57,5.38-1.5,7.62-2.38"/>
-	<path id="kvg:generated-ぢ-s2" d="M45.62,15.62c0.75,1.25,0.71,3.58,0.38,5.25c-3,15-4.25,22.59-8.38,38.62c-3.25,12.62-5.38,11.12,3.62,4.38c8.29-6.21,19.75-9.5,28.5-9.5c8.62,0,14.58,5.88,14.5,14.5c-0.12,13.5-16.5,20.62-29.88,23.25"/>
-	<path id="kvg:generated-ぢ-s3" d="M87.51,26c2.75,1.75,6,5.38,7.75,8.5"/>
-	<path id="kvg:generated-ぢ-s4" d="M93.88,21.12c3.06,1.57,6.68,4.82,8.62,7.62"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ぢ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 20 28.88)">1</text>
-	<text transform="matrix(1 0 0 1 36.75 15.5)">2</text>
-	<text transform="matrix(1 0 0 1 80 15)">3</text>
-	<text transform="matrix(1 0 0 1 80 25)">4</text>
-</g>
-</svg>`,
-    'づ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_づ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_づ" kvg:element="づ">
-	<path id="kvg:generated-づ-s1" d="M14,44.75c1.88,1.62,4.68,2.09,8.12,0.62c17.88-7.62,30-11.12,44.88-10.88c12.56,0.21,22.98,7.17,22.87,19.17c-0.18,18.77-24.75,28.71-45.01,32.08"/>
-	<path id="kvg:generated-づ-s2" d="M87.51,26c2.75,1.75,6,5.38,7.75,8.5"/>
-	<path id="kvg:generated-づ-s3" d="M93.88,21.12c3.06,1.57,6.68,4.82,8.62,7.62"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_づ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 9.76 40.38)">1</text>
-	<text transform="matrix(1 0 0 1 80 15)">2</text>
-	<text transform="matrix(1 0 0 1 80 25)">3</text>
-</g>
-</svg>`,
-    'で': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_で" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_で" kvg:element="で">
-	<path id="kvg:generated-で-s1" d="M20.5,26.38c1.87,1.62,4.42,1.97,8.12,1.37c21.75-3.5,33-5.12,50.12-8.38c12.34-2.34,13-0.88,0.38,1.38c-17.89,3.19-33.78,19.12-33.78,37.62c0,20.5,17.91,30.25,35.16,30.25"/>
-	<path id="kvg:generated-で-s2" d="M87.51,26c2.75,1.75,6,5.38,7.75,8.5"/>
-	<path id="kvg:generated-で-s3" d="M93.88,21.12c3.06,1.57,6.68,4.82,8.62,7.62"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_で" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 16.37 20)">1</text>
-	<text transform="matrix(1 0 0 1 80 15)">2</text>
-	<text transform="matrix(1 0 0 1 80 25)">3</text>
-</g>
-</svg>`,
-    'ど': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ど" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ど" kvg:element="ど">
-	<path id="kvg:generated-ど-s1" d="M35.5,18.38c1.74,0.74,3.62,2.62,4.12,5.37c0.5,2.75,4.75,25,5.38,28.12"/>
-	<path id="kvg:generated-ど-s2" d="M78.12,25.5c0.25,1.88,0.04,4.09-2.25,5.75c-6.37,4.63-13.22,8.49-22.75,15.25c-12.88,9.12-21.62,18.38-21.62,27.5c0,10.12,8.5,13.88,26.88,13.88c6.25,0,14.75-0.12,21.62-1.25"/>
-	<path id="kvg:generated-ど-s3" d="M87.51,26c2.75,1.75,6,5.38,7.75,8.5"/>
-	<path id="kvg:generated-ど-s4" d="M93.88,21.12c3.06,1.57,6.68,4.82,8.62,7.62"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ど" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 27.87 18.75)">1</text>
-	<text transform="matrix(1 0 0 1 69.25 22.25)">2</text>
-	<text transform="matrix(1 0 0 1 80 15)">3</text>
-	<text transform="matrix(1 0 0 1 80 25)">4</text>
-</g>
-</svg>`,
-    'ば': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ば" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ば" kvg:element="ば">
-	<path id="kvg:generated-ば-s1" d="M24.51,18c1.25,1.5,2.15,4,1.62,6.62c-3.5,17.62-6.98,36.4-4,54.88c2.5,15.5,1.12,2,5.62-6.25"/>
-	<path id="kvg:generated-ば-s2" d="M49.64,37.89c2.41,1.57,4.85,2.16,7.8,1.71c9.36-1.43,17.46-2.94,23.4-4.57c3.12-0.86,5.96-1.29,7.8-1.29"/>
-	<path id="kvg:generated-ば-s3" d="M69.77,16.5c2.25,2.12,2.88,4.12,2.88,6.5c0,2.38,1.5,38.62,1.5,48c0,22.5-30.62,19.62-30.62,10.5c0-9.75,23.88-5.62,29.5-2.88c5.62,2.74,11.98,8.26,13.36,9.38"/>
-	<path id="kvg:generated-ば-s4" d="M87.51,26c2.75,1.75,6,5.38,7.75,8.5"/>
-	<path id="kvg:generated-ば-s5" d="M93.88,21.12c3.06,1.57,6.68,4.82,8.62,7.62"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ば" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 16.89 17.63)">1</text>
-	<text transform="matrix(1 0 0 1 43.02 36.38)">2</text>
-	<text transform="matrix(1 0 0 1 59.89 16)">3</text>
-	<text transform="matrix(1 0 0 1 80 15)">4</text>
-	<text transform="matrix(1 0 0 1 80 25)">5</text>
-</g>
-</svg>`,
-    'び': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_び" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_び" kvg:element="び">
-	<path id="kvg:generated-び-s1" d="M20,25.12c1.25,0.88,3.75,2.25,6.5,1.38c2.75-0.87,7.31-2.38,11.38-4.5c6-3.12,8.42-1.01,4.25,4c-27.13,32.62-23.76,58.5-1.52,62.88c18.07,3.56,37.63-16.38,35.63-56.51c-0.72-14.5-0.17-14.78,4.12-1.75c3.76,11.38,10.26,20.76,16.14,26.5"/>
-	<path id="kvg:generated-び-s2" d="M87.51,26c2.75,1.75,6,5.38,7.75,8.5"/>
-	<path id="kvg:generated-び-s3" d="M93.88,21.12c3.06,1.57,6.68,4.82,8.62,7.62"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_び" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 15.25 21.38)">1</text>
-	<text transform="matrix(1 0 0 1 80 15)">2</text>
-	<text transform="matrix(1 0 0 1 80 25)">3</text>
-</g>
-</svg>`,
-    'ぶ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ぶ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ぶ" kvg:element="ぶ">
-	<path id="kvg:generated-ぶ-s1" d="M42.63,15.62c3.62,3.38,7.5,5.38,12.74,6.13c9.59,1.37,3.5,3.38-1.88,6.12"/>
-	<path id="kvg:generated-ぶ-s2" d="M43.63,46.88c1.88,4.62,7.5,9.41,14.25,17.5c10.62,12.74,0.49,30-19.13,21.62"/>
-	<path id="kvg:generated-ぶ-s3" d="M16.5,73.38c0.75,4,1.88,8.12,5,10.12c1.16,0.74,0.12-3.38,13.25-9.12"/>
-	<path id="kvg:generated-ぶ-s4" d="M80.13,61.88c5.12,3.38,10.28,7.49,11.38,8.88c6.75,8.5-0.25,4.62-4.62,7.12"/>
-	<path id="kvg:generated-ぶ-s5" d="M87.51,26c2.75,1.75,6,5.38,7.75,8.5"/>
-	<path id="kvg:generated-ぶ-s6" d="M93.88,21.12c3.06,1.57,6.68,4.82,8.62,7.62"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ぶ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 36.75 13.88)">1</text>
-	<text transform="matrix(1 0 0 1 37.75 43.88)">2</text>
-	<text transform="matrix(1 0 0 1 13.5 67.63)">3</text>
-	<text transform="matrix(1 0 0 1 69.38 59.13)">4</text>
-	<text transform="matrix(1 0 0 1 80 15)">5</text>
-	<text transform="matrix(1 0 0 1 80 25)">6</text>
-</g>
-</svg>`,
-    'べ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_べ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_べ" kvg:element="べ">
-	<path id="kvg:generated-べ-s1" d="M15,48.75c2.25,1.62,4.67,1.96,7-0.38c3.62-3.62,7.46-6.54,11.25-10.5c5.5-5.75,8.48-4.75,13.12-0.88c12.12,10.12,30.38,25.12,33.38,27.38c3,2.26,12.37,10.38,13.87,11.63"/>
-	<path id="kvg:generated-べ-s2" d="M87.51,26c2.75,1.75,6,5.38,7.75,8.5"/>
-	<path id="kvg:generated-べ-s3" d="M93.88,21.12c3.06,1.57,6.68,4.82,8.62,7.62"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_べ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 9.87 42.75)">1</text>
-	<text transform="matrix(1 0 0 1 80 15)">2</text>
-	<text transform="matrix(1 0 0 1 80 25)">3</text>
-</g>
-</svg>`,
-    'ぼ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ぼ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ぼ" kvg:element="ぼ">
-	<path id="kvg:generated-ぼ-s1" d="M24.51,18.75c1.25,1.5,2.15,4,1.62,6.62c-3.5,17.63-6.98,37.4-4,55.88c2.5,15.5,1.12,2,5.62-6.25"/>
-	<path id="kvg:generated-ぼ-s2" d="M53.08,21.13c1.9,1.28,3.82,1.76,6.14,1.4c7.36-1.17,13.73-2.4,18.41-3.73c2.46-0.7,4.69-1.05,6.13-1.05"/>
-	<path id="kvg:generated-ぼ-s3" d="M53.83,44.3c2.21,1.44,4.46,1.98,7.16,1.57c8.59-1.31,15.78-2.44,21.23-3.94c2.87-0.79,5.72-1.18,7.41-1.18"/>
-	<path id="kvg:generated-ぼ-s4" d="M72.51,23c1.38,1.62,1.62,4.12,1.62,6.5c0,2.38,2,35.12,2,44.5c0,17.5-29.88,17.12-29.88,8c0-9.75,21.38-7.88,29.5-2.88c5.33,3.28,12,8.25,13.38,9.38"/>
-	<path id="kvg:generated-ぼ-s5" d="M87.51,26c2.75,1.75,6,5.38,7.75,8.5"/>
-	<path id="kvg:generated-ぼ-s6" d="M93.88,21.12c3.06,1.57,6.68,4.82,8.62,7.62"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ぼ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 17.13 18.13)">1</text>
-	<text transform="matrix(1 0 0 1 46.38 20.5)">2</text>
-	<text transform="matrix(1 0 0 1 45.51 46)">3</text>
-	<text transform="matrix(1 0 0 1 66.13 29.38)">4</text>
-	<text transform="matrix(1 0 0 1 80 15)">5</text>
-	<text transform="matrix(1 0 0 1 80 25)">6</text>
-</g>
-</svg>`,
-    'ぱ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ぱ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ぱ" kvg:element="ぱ">
-	<path id="kvg:generated-ぱ-s1" d="M24.51,18c1.25,1.5,2.15,4,1.62,6.62c-3.5,17.62-6.98,36.4-4,54.88c2.5,15.5,1.12,2,5.62-6.25"/>
-	<path id="kvg:generated-ぱ-s2" d="M49.64,37.89c2.41,1.57,4.85,2.16,7.8,1.71c9.36-1.43,17.46-2.94,23.4-4.57c3.12-0.86,5.96-1.29,7.8-1.29"/>
-	<path id="kvg:generated-ぱ-s3" d="M69.77,16.5c2.25,2.12,2.88,4.12,2.88,6.5c0,2.38,1.5,38.62,1.5,48c0,22.5-30.62,19.62-30.62,10.5c0-9.75,23.88-5.62,29.5-2.88c5.62,2.74,11.98,8.26,13.36,9.38"/>
-	<path id="kvg:generated-ぱ-s4" d="M95.13,34.5c-9.62,0-9.25-14.25,0-14.25c9.75,0,9.5,14.25,0,14.25"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ぱ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 16.89 17.63)">1</text>
-	<text transform="matrix(1 0 0 1 43.02 36.38)">2</text>
-	<text transform="matrix(1 0 0 1 59.89 16)">3</text>
-	<text transform="matrix(1 0 0 1 80 15)">4</text>
-</g>
-</svg>`,
-    'ぴ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ぴ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ぴ" kvg:element="ぴ">
-	<path id="kvg:generated-ぴ-s1" d="M20,25.12c1.25,0.88,3.75,2.25,6.5,1.38c2.75-0.87,7.31-2.38,11.38-4.5c6-3.12,8.42-1.01,4.25,4c-27.13,32.62-23.76,58.5-1.52,62.88c18.07,3.56,37.63-16.38,35.63-56.51c-0.72-14.5-0.17-14.78,4.12-1.75c3.76,11.38,10.26,20.76,16.14,26.5"/>
-	<path id="kvg:generated-ぴ-s2" d="M95.13,34.5c-9.62,0-9.25-14.25,0-14.25c9.75,0,9.5,14.25,0,14.25"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ぴ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 15.25 21.38)">1</text>
-	<text transform="matrix(1 0 0 1 80 15)">2</text>
-</g>
-</svg>`,
-    'ぷ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ぷ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ぷ" kvg:element="ぷ">
-	<path id="kvg:generated-ぷ-s1" d="M42.63,15.62c3.62,3.38,7.5,5.38,12.74,6.13c9.59,1.37,3.5,3.38-1.88,6.12"/>
-	<path id="kvg:generated-ぷ-s2" d="M43.63,46.88c1.88,4.62,7.5,9.41,14.25,17.5c10.62,12.74,0.49,30-19.13,21.62"/>
-	<path id="kvg:generated-ぷ-s3" d="M16.5,73.38c0.75,4,1.88,8.12,5,10.12c1.16,0.74,0.12-3.38,13.25-9.12"/>
-	<path id="kvg:generated-ぷ-s4" d="M80.13,61.88c5.12,3.38,10.28,7.49,11.38,8.88c6.75,8.5-0.25,4.62-4.62,7.12"/>
-	<path id="kvg:generated-ぷ-s5" d="M95.13,34.5c-9.62,0-9.25-14.25,0-14.25c9.75,0,9.5,14.25,0,14.25"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ぷ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 36.75 13.88)">1</text>
-	<text transform="matrix(1 0 0 1 37.75 43.88)">2</text>
-	<text transform="matrix(1 0 0 1 13.5 67.63)">3</text>
-	<text transform="matrix(1 0 0 1 69.38 59.13)">4</text>
-	<text transform="matrix(1 0 0 1 80 15)">5</text>
-</g>
-</svg>`,
-    'ぺ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ぺ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ぺ" kvg:element="ぺ">
-	<path id="kvg:generated-ぺ-s1" d="M15,48.75c2.25,1.62,4.67,1.96,7-0.38c3.62-3.62,7.46-6.54,11.25-10.5c5.5-5.75,8.48-4.75,13.12-0.88c12.12,10.12,30.38,25.12,33.38,27.38c3,2.26,12.37,10.38,13.87,11.63"/>
-	<path id="kvg:generated-ぺ-s2" d="M95.13,34.5c-9.62,0-9.25-14.25,0-14.25c9.75,0,9.5,14.25,0,14.25"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ぺ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 9.87 42.75)">1</text>
-	<text transform="matrix(1 0 0 1 80 15)">2</text>
-</g>
-</svg>`,
-    'ぽ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ぽ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ぽ" kvg:element="ぽ">
-	<path id="kvg:generated-ぽ-s1" d="M24.51,18.75c1.25,1.5,2.15,4,1.62,6.62c-3.5,17.63-6.98,37.4-4,55.88c2.5,15.5,1.12,2,5.62-6.25"/>
-	<path id="kvg:generated-ぽ-s2" d="M53.08,21.13c1.9,1.28,3.82,1.76,6.14,1.4c7.36-1.17,13.73-2.4,18.41-3.73c2.46-0.7,4.69-1.05,6.13-1.05"/>
-	<path id="kvg:generated-ぽ-s3" d="M53.83,44.3c2.21,1.44,4.46,1.98,7.16,1.57c8.59-1.31,15.78-2.44,21.23-3.94c2.87-0.79,5.72-1.18,7.41-1.18"/>
-	<path id="kvg:generated-ぽ-s4" d="M72.51,23c1.38,1.62,1.62,4.12,1.62,6.5c0,2.38,2,35.12,2,44.5c0,17.5-29.88,17.12-29.88,8c0-9.75,21.38-7.88,29.5-2.88c5.33,3.28,12,8.25,13.38,9.38"/>
-	<path id="kvg:generated-ぽ-s5" d="M95.13,34.5c-9.62,0-9.25-14.25,0-14.25c9.75,0,9.5,14.25,0,14.25"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ぽ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 17.13 18.13)">1</text>
-	<text transform="matrix(1 0 0 1 46.38 20.5)">2</text>
-	<text transform="matrix(1 0 0 1 45.51 46)">3</text>
-	<text transform="matrix(1 0 0 1 66.13 29.38)">4</text>
-	<text transform="matrix(1 0 0 1 80 15)">5</text>
-</g>
-</svg>`,
-    'きゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_きゃ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_きゃ" kvg:element="きゃ">
-	<path id="kvg:generated-きゃ-s1" d="M23.30 38.15c1.13 0.45 2.78 0.64 3.53 0.53c4.05 13.35 15.90c1.30 2.10 2.93"/>
-	<path id="kvg:generated-きゃ-s2" d="M26.75 49.22c1.21 0.51 2.98 0.72 3.77 0.59c4.34 14.29 17.02c1.39 2.25 3.13"/>
-	<path id="kvg:generated-きゃ-s3" d="M30.20 28.47c0.90 0.53 1.88 1.76 2.40 3.07c3.30 8.26 9.60 17.56 15.82 24.46c4.58 5.08 5.47 5.63 2.33"/>
-	<path id="kvg:generated-きゃ-s4" d="M25.25 69.95c6.37 5.85 16.35 5.17 22.87 3.00"/>
-	<path id="kvg:generated-きゃ-s5" d="M59.00 74.69c0.94 0.81 2.63 1.25 4.31 0.44c9.26 17.88 25.41c4.51 0.07 8.01 2.06 7.96 6.14c0.00 4.17 8.29 8.91"/>
-	<path id="kvg:generated-きゃ-s6" d="M73.56 57.94c2.56 0.44 5.21 2.02 5.75 3.31c1.06 2.50 1.19 1.31"/>
-	<path id="kvg:generated-きゃ-s7" d="M65.00 62.19c1.19 0.94 1.64 1.44 1.94 2.63c1.31 5.25 5.56 20.56 7.38 26.25c0.33 1.02 0.94 3.13 1.44 4.69"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_きゃ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-	<text transform="matrix(1 0 0 1 30 10)">5</text>
-	<text transform="matrix(1 0 0 1 35 10)">6</text>
-	<text transform="matrix(1 0 0 1 40 10)">7</text>
-</g>
-</svg>`,
-    'きゅ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_きゅ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_きゅ" kvg:element="きゅ">
-	<path id="kvg:generated-きゅ-s1" d="M23.30 38.15c1.13 0.45 2.78 0.64 3.53 0.53c4.05 13.35 15.90c1.30 2.10 2.93"/>
-	<path id="kvg:generated-きゅ-s2" d="M26.75 49.22c1.21 0.51 2.98 0.72 3.77 0.59c4.34 14.29 17.02c1.39 2.25 3.13"/>
-	<path id="kvg:generated-きゅ-s3" d="M30.20 28.47c0.90 0.53 1.88 1.76 2.40 3.07c3.30 8.26 9.60 17.56 15.82 24.46c4.58 5.08 5.47 5.63 2.33"/>
-	<path id="kvg:generated-きゅ-s4" d="M25.25 69.95c6.37 5.85 16.35 5.17 22.87 3.00"/>
-	<path id="kvg:generated-きゅ-s5" d="M60.52 62.69c0.69 0.75 1.01 2.06 0.75 3.13c-1.44 5.88 11.13 17.50c1.39 9.43 0.56 1.94 1.63c4.50 13.62 22.19c8.44 0.00 10.94 5.69 10.94 10.13c0.00 13.69 14.81 8.38"/>
-	<path id="kvg:generated-きゅ-s6" d="M79.21 58.38c1.31 0.88 1.58 1.56 1.75 3.56c0.44 5.25 0.70 9.36 0.81 14.69c0.25 12.00 16.00 19.63"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_きゅ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-	<text transform="matrix(1 0 0 1 30 10)">5</text>
-	<text transform="matrix(1 0 0 1 35 10)">6</text>
-</g>
-</svg>`,
-    'きょ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_きょ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_きょ" kvg:element="きょ">
-	<path id="kvg:generated-きょ-s1" d="M23.30 38.15c1.13 0.45 2.78 0.64 3.53 0.53c4.05 13.35 15.90c1.30 2.10 2.93"/>
-	<path id="kvg:generated-きょ-s2" d="M26.75 49.22c1.21 0.51 2.98 0.72 3.77 0.59c4.34 14.29 17.02c1.39 2.25 3.13"/>
-	<path id="kvg:generated-きょ-s3" d="M30.20 28.47c0.90 0.53 1.88 1.76 2.40 3.07c3.30 8.26 9.60 17.56 15.82 24.46c4.58 5.08 5.47 5.63 2.33"/>
-	<path id="kvg:generated-きょ-s4" d="M25.25 69.95c6.37 5.85 16.35 5.17 22.87 3.00"/>
-	<path id="kvg:generated-きょ-s5" d="M79.12 67.69c3.75 6.87 9.25c1.25 2.38 3.13"/>
-	<path id="kvg:generated-きょ-s6" d="M77.31 56.94c1.13 1.06 1.49 2.06 1.44 3.25c-0.38 8.50 17.44 0.69 26.75c0.94 11.54 10.44 5.75c0.00 13.13 17.99c4.05 1.61 5.76 2.44 9.26 5.19"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_きょ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-	<text transform="matrix(1 0 0 1 30 10)">5</text>
-	<text transform="matrix(1 0 0 1 35 10)">6</text>
-</g>
-</svg>`,
-    'ぎゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ぎゃ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ぎゃ" kvg:element="ぎゃ">
-	<path id="kvg:generated-ぎゃ-s1" d="M23.30 38.15c1.13 0.45 2.78 0.64 3.53 0.53c4.05 13.35 15.90c1.30 2.10 2.93"/>
-	<path id="kvg:generated-ぎゃ-s2" d="M26.75 49.22c1.21 0.51 2.98 0.72 3.77 0.59c4.34 14.29 17.02c1.39 2.25 3.13"/>
-	<path id="kvg:generated-ぎゃ-s3" d="M30.20 28.47c0.90 0.53 1.88 1.76 2.40 3.07c3.30 8.26 9.60 17.56 15.82 24.46c4.58 5.08 5.47 5.63 2.33"/>
-	<path id="kvg:generated-ぎゃ-s4" d="M25.25 69.95c6.37 5.85 16.35 5.17 22.87 3.00"/>
-	<path id="kvg:generated-ぎゃ-s5" d="M57.51 35.60c1.65 1.05 3.60 3.23 4.65 5.10"/>
-	<path id="kvg:generated-ぎゃ-s6" d="M61.33 32.67c1.84 0.94 4.01 2.89 5.17 4.57"/>
-	<path id="kvg:generated-ぎゃ-s7" d="M59.00 74.69c0.94 0.81 2.63 1.25 4.31 0.44c9.26 17.88 25.41c4.51 0.07 8.01 2.06 7.96 6.14c0.00 4.17 8.29 8.91"/>
-	<path id="kvg:generated-ぎゃ-s8" d="M73.56 57.94c2.56 0.44 5.21 2.02 5.75 3.31c1.06 2.50 1.19 1.31"/>
-	<path id="kvg:generated-ぎゃ-s9" d="M65.00 62.19c1.19 0.94 1.64 1.44 1.94 2.63c1.31 5.25 5.56 20.56 7.38 26.25c0.33 1.02 0.94 3.13 1.44 4.69"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ぎゃ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-	<text transform="matrix(1 0 0 1 30 10)">5</text>
-	<text transform="matrix(1 0 0 1 35 10)">6</text>
-	<text transform="matrix(1 0 0 1 40 10)">7</text>
-	<text transform="matrix(1 0 0 1 45 10)">8</text>
-	<text transform="matrix(1 0 0 1 50 10)">9</text>
-</g>
-</svg>`,
-    'ぎゅ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ぎゅ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ぎゅ" kvg:element="ぎゅ">
-	<path id="kvg:generated-ぎゅ-s1" d="M23.30 38.15c1.13 0.45 2.78 0.64 3.53 0.53c4.05 13.35 15.90c1.30 2.10 2.93"/>
-	<path id="kvg:generated-ぎゅ-s2" d="M26.75 49.22c1.21 0.51 2.98 0.72 3.77 0.59c4.34 14.29 17.02c1.39 2.25 3.13"/>
-	<path id="kvg:generated-ぎゅ-s3" d="M30.20 28.47c0.90 0.53 1.88 1.76 2.40 3.07c3.30 8.26 9.60 17.56 15.82 24.46c4.58 5.08 5.47 5.63 2.33"/>
-	<path id="kvg:generated-ぎゅ-s4" d="M25.25 69.95c6.37 5.85 16.35 5.17 22.87 3.00"/>
-	<path id="kvg:generated-ぎゅ-s5" d="M57.51 35.60c1.65 1.05 3.60 3.23 4.65 5.10"/>
-	<path id="kvg:generated-ぎゅ-s6" d="M61.33 32.67c1.84 0.94 4.01 2.89 5.17 4.57"/>
-	<path id="kvg:generated-ぎゅ-s7" d="M60.52 62.69c0.69 0.75 1.01 2.06 0.75 3.13c-1.44 5.88 11.13 17.50c1.39 9.43 0.56 1.94 1.63c4.50 13.62 22.19c8.44 0.00 10.94 5.69 10.94 10.13c0.00 13.69 14.81 8.38"/>
-	<path id="kvg:generated-ぎゅ-s8" d="M79.21 58.38c1.31 0.88 1.58 1.56 1.75 3.56c0.44 5.25 0.70 9.36 0.81 14.69c0.25 12.00 16.00 19.63"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ぎゅ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-	<text transform="matrix(1 0 0 1 30 10)">5</text>
-	<text transform="matrix(1 0 0 1 35 10)">6</text>
-	<text transform="matrix(1 0 0 1 40 10)">7</text>
-	<text transform="matrix(1 0 0 1 45 10)">8</text>
-</g>
-</svg>`,
-    'ぎょ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ぎょ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ぎょ" kvg:element="ぎょ">
-	<path id="kvg:generated-ぎょ-s1" d="M23.30 38.15c1.13 0.45 2.78 0.64 3.53 0.53c4.05 13.35 15.90c1.30 2.10 2.93"/>
-	<path id="kvg:generated-ぎょ-s2" d="M26.75 49.22c1.21 0.51 2.98 0.72 3.77 0.59c4.34 14.29 17.02c1.39 2.25 3.13"/>
-	<path id="kvg:generated-ぎょ-s3" d="M30.20 28.47c0.90 0.53 1.88 1.76 2.40 3.07c3.30 8.26 9.60 17.56 15.82 24.46c4.58 5.08 5.47 5.63 2.33"/>
-	<path id="kvg:generated-ぎょ-s4" d="M25.25 69.95c6.37 5.85 16.35 5.17 22.87 3.00"/>
-	<path id="kvg:generated-ぎょ-s5" d="M57.51 35.60c1.65 1.05 3.60 3.23 4.65 5.10"/>
-	<path id="kvg:generated-ぎょ-s6" d="M61.33 32.67c1.84 0.94 4.01 2.89 5.17 4.57"/>
-	<path id="kvg:generated-ぎょ-s7" d="M79.12 67.69c3.75 6.87 9.25c1.25 2.38 3.13"/>
-	<path id="kvg:generated-ぎょ-s8" d="M77.31 56.94c1.13 1.06 1.49 2.06 1.44 3.25c-0.38 8.50 17.44 0.69 26.75c0.94 11.54 10.44 5.75c0.00 13.13 17.99c4.05 1.61 5.76 2.44 9.26 5.19"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ぎょ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-	<text transform="matrix(1 0 0 1 30 10)">5</text>
-	<text transform="matrix(1 0 0 1 35 10)">6</text>
-	<text transform="matrix(1 0 0 1 40 10)">7</text>
-	<text transform="matrix(1 0 0 1 45 10)">8</text>
-</g>
-</svg>`,
-    'しゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_しゃ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_しゃ" kvg:element="しゃ">
-	<path id="kvg:generated-しゃ-s1" d="M28.47 30.50c0.75 1.87 0.56 4.04 0.23 6.15c-1.27 8.10 15.90 23.47c0.00 16.43 11.93 18.07 27.30 10.35"/>
-	<path id="kvg:generated-しゃ-s2" d="M59.00 74.69c0.94 0.81 2.63 1.25 4.31 0.44c9.26 17.88 25.41c4.51 0.07 8.01 2.06 7.96 6.14c0.00 4.17 8.29 8.91"/>
-	<path id="kvg:generated-しゃ-s3" d="M73.56 57.94c2.56 0.44 5.21 2.02 5.75 3.31c1.06 2.50 1.19 1.31"/>
-	<path id="kvg:generated-しゃ-s4" d="M65.00 62.19c1.19 0.94 1.64 1.44 1.94 2.63c1.31 5.25 5.56 20.56 7.38 26.25c0.33 1.02 0.94 3.13 1.44 4.69"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_しゃ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-</g>
-</svg>`,
-    'しゅ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_しゅ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_しゅ" kvg:element="しゅ">
-	<path id="kvg:generated-しゅ-s1" d="M28.47 30.50c0.75 1.87 0.56 4.04 0.23 6.15c-1.27 8.10 15.90 23.47c0.00 16.43 11.93 18.07 27.30 10.35"/>
-	<path id="kvg:generated-しゅ-s2" d="M60.52 62.69c0.69 0.75 1.01 2.06 0.75 3.13c-1.44 5.88 11.13 17.50c1.39 9.43 0.56 1.94 1.63c4.50 13.62 22.19c8.44 0.00 10.94 5.69 10.94 10.13c0.00 13.69 14.81 8.38"/>
-	<path id="kvg:generated-しゅ-s3" d="M79.21 58.38c1.31 0.88 1.58 1.56 1.75 3.56c0.44 5.25 0.70 9.36 0.81 14.69c0.25 12.00 16.00 19.63"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_しゅ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-</g>
-</svg>`,
-    'しょ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_しょ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_しょ" kvg:element="しょ">
-	<path id="kvg:generated-しょ-s1" d="M28.47 30.50c0.75 1.87 0.56 4.04 0.23 6.15c-1.27 8.10 15.90 23.47c0.00 16.43 11.93 18.07 27.30 10.35"/>
-	<path id="kvg:generated-しょ-s2" d="M79.12 67.69c3.75 6.87 9.25c1.25 2.38 3.13"/>
-	<path id="kvg:generated-しょ-s3" d="M77.31 56.94c1.13 1.06 1.49 2.06 1.44 3.25c-0.38 8.50 17.44 0.69 26.75c0.94 11.54 10.44 5.75c0.00 13.13 17.99c4.05 1.61 5.76 2.44 9.26 5.19"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_しょ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-</g>
-</svg>`,
-    'じゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_じゃ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_じゃ" kvg:element="じゃ">
-	<path id="kvg:generated-じゃ-s1" d="M28.47 30.50c0.75 1.87 0.56 4.04 0.23 6.15c-1.27 8.10 15.90 23.47c0.00 16.43 11.93 18.07 27.30 10.35"/>
-	<path id="kvg:generated-じゃ-s2" d="M57.51 35.60c1.65 1.05 3.60 3.23 4.65 5.10"/>
-	<path id="kvg:generated-じゃ-s3" d="M61.33 32.67c1.84 0.94 4.01 2.89 5.17 4.57"/>
-	<path id="kvg:generated-じゃ-s4" d="M59.00 74.69c0.94 0.81 2.63 1.25 4.31 0.44c9.26 17.88 25.41c4.51 0.07 8.01 2.06 7.96 6.14c0.00 4.17 8.29 8.91"/>
-	<path id="kvg:generated-じゃ-s5" d="M73.56 57.94c2.56 0.44 5.21 2.02 5.75 3.31c1.06 2.50 1.19 1.31"/>
-	<path id="kvg:generated-じゃ-s6" d="M65.00 62.19c1.19 0.94 1.64 1.44 1.94 2.63c1.31 5.25 5.56 20.56 7.38 26.25c0.33 1.02 0.94 3.13 1.44 4.69"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_じゃ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-	<text transform="matrix(1 0 0 1 30 10)">5</text>
-	<text transform="matrix(1 0 0 1 35 10)">6</text>
-</g>
-</svg>`,
-    'じゅ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_じゅ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_じゅ" kvg:element="じゅ">
-	<path id="kvg:generated-じゅ-s1" d="M28.47 30.50c0.75 1.87 0.56 4.04 0.23 6.15c-1.27 8.10 15.90 23.47c0.00 16.43 11.93 18.07 27.30 10.35"/>
-	<path id="kvg:generated-じゅ-s2" d="M57.51 35.60c1.65 1.05 3.60 3.23 4.65 5.10"/>
-	<path id="kvg:generated-じゅ-s3" d="M61.33 32.67c1.84 0.94 4.01 2.89 5.17 4.57"/>
-	<path id="kvg:generated-じゅ-s4" d="M60.52 62.69c0.69 0.75 1.01 2.06 0.75 3.13c-1.44 5.88 11.13 17.50c1.39 9.43 0.56 1.94 1.63c4.50 13.62 22.19c8.44 0.00 10.94 5.69 10.94 10.13c0.00 13.69 14.81 8.38"/>
-	<path id="kvg:generated-じゅ-s5" d="M79.21 58.38c1.31 0.88 1.58 1.56 1.75 3.56c0.44 5.25 0.70 9.36 0.81 14.69c0.25 12.00 16.00 19.63"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_じゅ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-	<text transform="matrix(1 0 0 1 30 10)">5</text>
-</g>
-</svg>`,
-    'じょ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_じょ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_じょ" kvg:element="じょ">
-	<path id="kvg:generated-じょ-s1" d="M28.47 30.50c0.75 1.87 0.56 4.04 0.23 6.15c-1.27 8.10 15.90 23.47c0.00 16.43 11.93 18.07 27.30 10.35"/>
-	<path id="kvg:generated-じょ-s2" d="M57.51 35.60c1.65 1.05 3.60 3.23 4.65 5.10"/>
-	<path id="kvg:generated-じょ-s3" d="M61.33 32.67c1.84 0.94 4.01 2.89 5.17 4.57"/>
-	<path id="kvg:generated-じょ-s4" d="M79.12 67.69c3.75 6.87 9.25c1.25 2.38 3.13"/>
-	<path id="kvg:generated-じょ-s5" d="M77.31 56.94c1.13 1.06 1.49 2.06 1.44 3.25c-0.38 8.50 17.44 0.69 26.75c0.94 11.54 10.44 5.75c0.00 13.13 17.99c4.05 1.61 5.76 2.44 9.26 5.19"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_じょ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-	<text transform="matrix(1 0 0 1 30 10)">5</text>
-</g>
-</svg>`,
-    'ちゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ちゃ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ちゃ" kvg:element="ちゃ">
-	<path id="kvg:generated-ちゃ-s1" d="M19.70 39.57c0.83 0.37 2.33 0.91 3.83 0.67c3.90 10.95 16.13c1.58 3.23 4.57"/>
-	<path id="kvg:generated-ちゃ-s2" d="M32.37 29.37c0.45 0.75 0.43 2.15 0.23 3.15c-1.80 9.00 13.55 23.17c-1.95 7.57 6.67 2.17 2.63c4.97 11.85 17.10c5.17 0.00 8.75 3.53 8.70 8.70c-0.07 8.10 12.37 13.95"/>
-	<path id="kvg:generated-ちゃ-s3" d="M59.00 74.69c0.94 0.81 2.63 1.25 4.31 0.44c9.26 17.88 25.41c4.51 0.07 8.01 2.06 7.96 6.14c0.00 4.17 8.29 8.91"/>
-	<path id="kvg:generated-ちゃ-s4" d="M73.56 57.94c2.56 0.44 5.21 2.02 5.75 3.31c1.06 2.50 1.19 1.31"/>
-	<path id="kvg:generated-ちゃ-s5" d="M65.00 62.19c1.19 0.94 1.64 1.44 1.94 2.63c1.31 5.25 5.56 20.56 7.38 26.25c0.33 1.02 0.94 3.13 1.44 4.69"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ちゃ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-	<text transform="matrix(1 0 0 1 30 10)">5</text>
-</g>
-</svg>`,
-    'ちゅ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ちゅ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ちゅ" kvg:element="ちゅ">
-	<path id="kvg:generated-ちゅ-s1" d="M19.70 39.57c0.83 0.37 2.33 0.91 3.83 0.67c3.90 10.95 16.13c1.58 3.23 4.57"/>
-	<path id="kvg:generated-ちゅ-s2" d="M32.37 29.37c0.45 0.75 0.43 2.15 0.23 3.15c-1.80 9.00 13.55 23.17c-1.95 7.57 6.67 2.17 2.63c4.97 11.85 17.10c5.17 0.00 8.75 3.53 8.70 8.70c-0.07 8.10 12.37 13.95"/>
-	<path id="kvg:generated-ちゅ-s3" d="M60.52 62.69c0.69 0.75 1.01 2.06 0.75 3.13c-1.44 5.88 11.13 17.50c1.39 9.43 0.56 1.94 1.63c4.50 13.62 22.19c8.44 0.00 10.94 5.69 10.94 10.13c0.00 13.69 14.81 8.38"/>
-	<path id="kvg:generated-ちゅ-s4" d="M79.21 58.38c1.31 0.88 1.58 1.56 1.75 3.56c0.44 5.25 0.70 9.36 0.81 14.69c0.25 12.00 16.00 19.63"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ちゅ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-</g>
-</svg>`,
-    'ちょ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ちょ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ちょ" kvg:element="ちょ">
-	<path id="kvg:generated-ちょ-s1" d="M19.70 39.57c0.83 0.37 2.33 0.91 3.83 0.67c3.90 10.95 16.13c1.58 3.23 4.57"/>
-	<path id="kvg:generated-ちょ-s2" d="M32.37 29.37c0.45 0.75 0.43 2.15 0.23 3.15c-1.80 9.00 13.55 23.17c-1.95 7.57 6.67 2.17 2.63c4.97 11.85 17.10c5.17 0.00 8.75 3.53 8.70 8.70c-0.07 8.10 12.37 13.95"/>
-	<path id="kvg:generated-ちょ-s3" d="M79.12 67.69c3.75 6.87 9.25c1.25 2.38 3.13"/>
-	<path id="kvg:generated-ちょ-s4" d="M77.31 56.94c1.13 1.06 1.49 2.06 1.44 3.25c-0.38 8.50 17.44 0.69 26.75c0.94 11.54 10.44 5.75c0.00 13.13 17.99c4.05 1.61 5.76 2.44 9.26 5.19"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ちょ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-</g>
-</svg>`,
-    'にゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_にゃ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_にゃ" kvg:element="にゃ">
-	<path id="kvg:generated-にゃ-s1" d="M19.72 33.65c0.75 0.90 0.97 2.25 0.67 3.83c-1.80 9.53 19.50 28.57c1.21 11.30 2.70 3.45 5.10"/>
-	<path id="kvg:generated-にゃ-s2" d="M36.92 38.38c0.58 0.47 1.46 0.95 3.06 0.81c4.19 9.01 13.22c7.91 0.90 2.25 4.41"/>
-	<path id="kvg:generated-にゃ-s3" d="M36.52 60.80c1.06 7.75 7.15 9.61 14.54 8.96c3.05 5.34 8.56"/>
-	<path id="kvg:generated-にゃ-s4" d="M59.00 74.69c0.94 0.81 2.63 1.25 4.31 0.44c9.26 17.88 25.41c4.51 0.07 8.01 2.06 7.96 6.14c0.00 4.17 8.29 8.91"/>
-	<path id="kvg:generated-にゃ-s5" d="M73.56 57.94c2.56 0.44 5.21 2.02 5.75 3.31c1.06 2.50 1.19 1.31"/>
-	<path id="kvg:generated-にゃ-s6" d="M65.00 62.19c1.19 0.94 1.64 1.44 1.94 2.63c1.31 5.25 5.56 20.56 7.38 26.25c0.33 1.02 0.94 3.13 1.44 4.69"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_にゃ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-	<text transform="matrix(1 0 0 1 30 10)">5</text>
-	<text transform="matrix(1 0 0 1 35 10)">6</text>
-</g>
-</svg>`,
-    'にゅ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_にゅ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_にゅ" kvg:element="にゅ">
-	<path id="kvg:generated-にゅ-s1" d="M19.72 33.65c0.75 0.90 0.97 2.25 0.67 3.83c-1.80 9.53 19.50 28.57c1.21 11.30 2.70 3.45 5.10"/>
-	<path id="kvg:generated-にゅ-s2" d="M36.92 38.38c0.58 0.47 1.46 0.95 3.06 0.81c4.19 9.01 13.22c7.91 0.90 2.25 4.41"/>
-	<path id="kvg:generated-にゅ-s3" d="M36.52 60.80c1.06 7.75 7.15 9.61 14.54 8.96c3.05 5.34 8.56"/>
-	<path id="kvg:generated-にゅ-s4" d="M60.52 62.69c0.69 0.75 1.01 2.06 0.75 3.13c-1.44 5.88 11.13 17.50c1.39 9.43 0.56 1.94 1.63c4.50 13.62 22.19c8.44 0.00 10.94 5.69 10.94 10.13c0.00 13.69 14.81 8.38"/>
-	<path id="kvg:generated-にゅ-s5" d="M79.21 58.38c1.31 0.88 1.58 1.56 1.75 3.56c0.44 5.25 0.70 9.36 0.81 14.69c0.25 12.00 16.00 19.63"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_にゅ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-	<text transform="matrix(1 0 0 1 30 10)">5</text>
-</g>
-</svg>`,
-    'にょ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_にょ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_にょ" kvg:element="にょ">
-	<path id="kvg:generated-にょ-s1" d="M19.72 33.65c0.75 0.90 0.97 2.25 0.67 3.83c-1.80 9.53 19.50 28.57c1.21 11.30 2.70 3.45 5.10"/>
-	<path id="kvg:generated-にょ-s2" d="M36.92 38.38c0.58 0.47 1.46 0.95 3.06 0.81c4.19 9.01 13.22c7.91 0.90 2.25 4.41"/>
-	<path id="kvg:generated-にょ-s3" d="M36.52 60.80c1.06 7.75 7.15 9.61 14.54 8.96c3.05 5.34 8.56"/>
-	<path id="kvg:generated-にょ-s4" d="M79.12 67.69c3.75 6.87 9.25c1.25 2.38 3.13"/>
-	<path id="kvg:generated-にょ-s5" d="M77.31 56.94c1.13 1.06 1.49 2.06 1.44 3.25c-0.38 8.50 17.44 0.69 26.75c0.94 11.54 10.44 5.75c0.00 13.13 17.99c4.05 1.61 5.76 2.44 9.26 5.19"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_にょ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-	<text transform="matrix(1 0 0 1 30 10)">5</text>
-</g>
-</svg>`,
-    'ひゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ひゃ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ひゃ" kvg:element="ひゃ">
-	<path id="kvg:generated-ひゃ-s1" d="M17.00 35.07c0.75 0.53 2.25 1.35 3.90 0.83c1.65 4.39 6.83c3.60 5.05 2.55 2.40c-16.28 19.57 35.10 37.73c10.84 2.14 22.58 21.38c-0.43 2.47c2.26 6.83 6.16 12.46 9.68 15.90"/>
-	<path id="kvg:generated-ひゃ-s2" d="M59.00 74.69c0.94 0.81 2.63 1.25 4.31 0.44c9.26 17.88 25.41c4.51 0.07 8.01 2.06 7.96 6.14c0.00 4.17 8.29 8.91"/>
-	<path id="kvg:generated-ひゃ-s3" d="M73.56 57.94c2.56 0.44 5.21 2.02 5.75 3.31c1.06 2.50 1.19 1.31"/>
-	<path id="kvg:generated-ひゃ-s4" d="M65.00 62.19c1.19 0.94 1.64 1.44 1.94 2.63c1.31 5.25 5.56 20.56 7.38 26.25c0.33 1.02 0.94 3.13 1.44 4.69"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ひゃ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-</g>
-</svg>`,
-    'ひゅ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ひゅ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ひゅ" kvg:element="ひゅ">
-	<path id="kvg:generated-ひゅ-s1" d="M17.00 35.07c0.75 0.53 2.25 1.35 3.90 0.83c1.65 4.39 6.83c3.60 5.05 2.55 2.40c-16.28 19.57 35.10 37.73c10.84 2.14 22.58 21.38c-0.43 2.47c2.26 6.83 6.16 12.46 9.68 15.90"/>
-	<path id="kvg:generated-ひゅ-s2" d="M60.52 62.69c0.69 0.75 1.01 2.06 0.75 3.13c-1.44 5.88 11.13 17.50c1.39 9.43 0.56 1.94 1.63c4.50 13.62 22.19c8.44 0.00 10.94 5.69 10.94 10.13c0.00 13.69 14.81 8.38"/>
-	<path id="kvg:generated-ひゅ-s3" d="M79.21 58.38c1.31 0.88 1.58 1.56 1.75 3.56c0.44 5.25 0.70 9.36 0.81 14.69c0.25 12.00 16.00 19.63"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ひゅ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-</g>
-</svg>`,
-    'ひょ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ひょ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ひょ" kvg:element="ひょ">
-	<path id="kvg:generated-ひょ-s1" d="M17.00 35.07c0.75 0.53 2.25 1.35 3.90 0.83c1.65 4.39 6.83c3.60 5.05 2.55 2.40c-16.28 19.57 35.10 37.73c10.84 2.14 22.58 21.38c-0.43 2.47c2.26 6.83 6.16 12.46 9.68 15.90"/>
-	<path id="kvg:generated-ひょ-s2" d="M79.12 67.69c3.75 6.87 9.25c1.25 2.38 3.13"/>
-	<path id="kvg:generated-ひょ-s3" d="M77.31 56.94c1.13 1.06 1.49 2.06 1.44 3.25c-0.38 8.50 17.44 0.69 26.75c0.94 11.54 10.44 5.75c0.00 13.13 17.99c4.05 1.61 5.76 2.44 9.26 5.19"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ひょ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-</g>
-</svg>`,
-    'びゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_びゃ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_びゃ" kvg:element="びゃ">
-	<path id="kvg:generated-びゃ-s1" d="M17.00 35.07c0.75 0.53 2.25 1.35 3.90 0.83c1.65 4.39 6.83c3.60 5.05 2.55 2.40c-16.28 19.57 35.10 37.73c10.84 2.14 22.58 21.38c-0.43 2.47c2.26 6.83 6.16 12.46 9.68 15.90"/>
-	<path id="kvg:generated-びゃ-s2" d="M57.51 35.60c1.65 1.05 3.60 3.23 4.65 5.10"/>
-	<path id="kvg:generated-びゃ-s3" d="M61.33 32.67c1.84 0.94 4.01 2.89 5.17 4.57"/>
-	<path id="kvg:generated-びゃ-s4" d="M59.00 74.69c0.94 0.81 2.63 1.25 4.31 0.44c9.26 17.88 25.41c4.51 0.07 8.01 2.06 7.96 6.14c0.00 4.17 8.29 8.91"/>
-	<path id="kvg:generated-びゃ-s5" d="M73.56 57.94c2.56 0.44 5.21 2.02 5.75 3.31c1.06 2.50 1.19 1.31"/>
-	<path id="kvg:generated-びゃ-s6" d="M65.00 62.19c1.19 0.94 1.64 1.44 1.94 2.63c1.31 5.25 5.56 20.56 7.38 26.25c0.33 1.02 0.94 3.13 1.44 4.69"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_びゃ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-	<text transform="matrix(1 0 0 1 30 10)">5</text>
-	<text transform="matrix(1 0 0 1 35 10)">6</text>
-</g>
-</svg>`,
-    'びゅ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_びゅ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_びゅ" kvg:element="びゅ">
-	<path id="kvg:generated-びゅ-s1" d="M17.00 35.07c0.75 0.53 2.25 1.35 3.90 0.83c1.65 4.39 6.83c3.60 5.05 2.55 2.40c-16.28 19.57 35.10 37.73c10.84 2.14 22.58 21.38c-0.43 2.47c2.26 6.83 6.16 12.46 9.68 15.90"/>
-	<path id="kvg:generated-びゅ-s2" d="M57.51 35.60c1.65 1.05 3.60 3.23 4.65 5.10"/>
-	<path id="kvg:generated-びゅ-s3" d="M61.33 32.67c1.84 0.94 4.01 2.89 5.17 4.57"/>
-	<path id="kvg:generated-びゅ-s4" d="M60.52 62.69c0.69 0.75 1.01 2.06 0.75 3.13c-1.44 5.88 11.13 17.50c1.39 9.43 0.56 1.94 1.63c4.50 13.62 22.19c8.44 0.00 10.94 5.69 10.94 10.13c0.00 13.69 14.81 8.38"/>
-	<path id="kvg:generated-びゅ-s5" d="M79.21 58.38c1.31 0.88 1.58 1.56 1.75 3.56c0.44 5.25 0.70 9.36 0.81 14.69c0.25 12.00 16.00 19.63"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_びゅ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-	<text transform="matrix(1 0 0 1 30 10)">5</text>
-</g>
-</svg>`,
-    'びょ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_びょ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_びょ" kvg:element="びょ">
-	<path id="kvg:generated-びょ-s1" d="M17.00 35.07c0.75 0.53 2.25 1.35 3.90 0.83c1.65 4.39 6.83c3.60 5.05 2.55 2.40c-16.28 19.57 35.10 37.73c10.84 2.14 22.58 21.38c-0.43 2.47c2.26 6.83 6.16 12.46 9.68 15.90"/>
-	<path id="kvg:generated-びょ-s2" d="M57.51 35.60c1.65 1.05 3.60 3.23 4.65 5.10"/>
-	<path id="kvg:generated-びょ-s3" d="M61.33 32.67c1.84 0.94 4.01 2.89 5.17 4.57"/>
-	<path id="kvg:generated-びょ-s4" d="M79.12 67.69c3.75 6.87 9.25c1.25 2.38 3.13"/>
-	<path id="kvg:generated-びょ-s5" d="M77.31 56.94c1.13 1.06 1.49 2.06 1.44 3.25c-0.38 8.50 17.44 0.69 26.75c0.94 11.54 10.44 5.75c0.00 13.13 17.99c4.05 1.61 5.76 2.44 9.26 5.19"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_びょ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-	<text transform="matrix(1 0 0 1 30 10)">5</text>
-</g>
-</svg>`,
-    'ぴゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ぴゃ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ぴゃ" kvg:element="ぴゃ">
-	<path id="kvg:generated-ぴゃ-s1" d="M17.00 35.07c0.75 0.53 2.25 1.35 3.90 0.83c1.65 4.39 6.83c3.60 5.05 2.55 2.40c-16.28 19.57 35.10 37.73c10.84 2.14 22.58 21.38c-0.43 2.47c2.26 6.83 6.16 12.46 9.68 15.90"/>
-	<path id="kvg:generated-ぴゃ-s2" d="M62.08 40.70c-5.77 0.00 0.00c5.85 0.00 5.70 8.55 0.00 8.55"/>
-	<path id="kvg:generated-ぴゃ-s3" d="M59.00 74.69c0.94 0.81 2.63 1.25 4.31 0.44c9.26 17.88 25.41c4.51 0.07 8.01 2.06 7.96 6.14c0.00 4.17 8.29 8.91"/>
-	<path id="kvg:generated-ぴゃ-s4" d="M73.56 57.94c2.56 0.44 5.21 2.02 5.75 3.31c1.06 2.50 1.19 1.31"/>
-	<path id="kvg:generated-ぴゃ-s5" d="M65.00 62.19c1.19 0.94 1.64 1.44 1.94 2.63c1.31 5.25 5.56 20.56 7.38 26.25c0.33 1.02 0.94 3.13 1.44 4.69"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ぴゃ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-	<text transform="matrix(1 0 0 1 30 10)">5</text>
-</g>
-</svg>`,
-    'ぴゅ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ぴゅ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ぴゅ" kvg:element="ぴゅ">
-	<path id="kvg:generated-ぴゅ-s1" d="M17.00 35.07c0.75 0.53 2.25 1.35 3.90 0.83c1.65 4.39 6.83c3.60 5.05 2.55 2.40c-16.28 19.57 35.10 37.73c10.84 2.14 22.58 21.38c-0.43 2.47c2.26 6.83 6.16 12.46 9.68 15.90"/>
-	<path id="kvg:generated-ぴゅ-s2" d="M62.08 40.70c-5.77 0.00 0.00c5.85 0.00 5.70 8.55 0.00 8.55"/>
-	<path id="kvg:generated-ぴゅ-s3" d="M60.52 62.69c0.69 0.75 1.01 2.06 0.75 3.13c-1.44 5.88 11.13 17.50c1.39 9.43 0.56 1.94 1.63c4.50 13.62 22.19c8.44 0.00 10.94 5.69 10.94 10.13c0.00 13.69 14.81 8.38"/>
-	<path id="kvg:generated-ぴゅ-s4" d="M79.21 58.38c1.31 0.88 1.58 1.56 1.75 3.56c0.44 5.25 0.70 9.36 0.81 14.69c0.25 12.00 16.00 19.63"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ぴゅ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-</g>
-</svg>`,
-    'ぴょ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_ぴょ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_ぴょ" kvg:element="ぴょ">
-	<path id="kvg:generated-ぴょ-s1" d="M17.00 35.07c0.75 0.53 2.25 1.35 3.90 0.83c1.65 4.39 6.83c3.60 5.05 2.55 2.40c-16.28 19.57 35.10 37.73c10.84 2.14 22.58 21.38c-0.43 2.47c2.26 6.83 6.16 12.46 9.68 15.90"/>
-	<path id="kvg:generated-ぴょ-s2" d="M62.08 40.70c-5.77 0.00 0.00c5.85 0.00 5.70 8.55 0.00 8.55"/>
-	<path id="kvg:generated-ぴょ-s3" d="M79.12 67.69c3.75 6.87 9.25c1.25 2.38 3.13"/>
-	<path id="kvg:generated-ぴょ-s4" d="M77.31 56.94c1.13 1.06 1.49 2.06 1.44 3.25c-0.38 8.50 17.44 0.69 26.75c0.94 11.54 10.44 5.75c0.00 13.13 17.99c4.05 1.61 5.76 2.44 9.26 5.19"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_ぴょ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-</g>
-</svg>`,
-    'みゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_みゃ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_みゃ" kvg:element="みゃ">
-	<path id="kvg:generated-みゃ-s1" d="M24.50 35.60c1.13 1.05 2.44 1.02 4.13 0.75c2.33 4.57 7.13c2.56 3.75 2.70 3.07c-1.05 3.14 10.43 18.07c-8.18 19.51 17.56 11.18c0.00 12.29 19.80c11.10 1.65 18.00 3.97 26.63 8.55"/>
-	<path id="kvg:generated-みゃ-s2" d="M52.63 52.85c0.45 1.43 0.29 2.62 0.00 3.75c-1.27 4.87 15.00 20.25"/>
-	<path id="kvg:generated-みゃ-s3" d="M59.00 74.69c0.94 0.81 2.63 1.25 4.31 0.44c9.26 17.88 25.41c4.51 0.07 8.01 2.06 7.96 6.14c0.00 4.17 8.29 8.91"/>
-	<path id="kvg:generated-みゃ-s4" d="M73.56 57.94c2.56 0.44 5.21 2.02 5.75 3.31c1.06 2.50 1.19 1.31"/>
-	<path id="kvg:generated-みゃ-s5" d="M65.00 62.19c1.19 0.94 1.64 1.44 1.94 2.63c1.31 5.25 5.56 20.56 7.38 26.25c0.33 1.02 0.94 3.13 1.44 4.69"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_generated_みゃ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-	<text transform="matrix(1 0 0 1 30 10)">5</text>
-</g>
+<g id="kvg:StrokePaths_03084" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03084" kvg:element="や">
+	<path id="kvg:03084-s1" d="M18,49.38c1.88,1.62,5.25,2.5,8.62,0.88c18.51-8.88,35.76-19.38,50.83-19.26c9.02,0.14,16.01,4.13,15.93,12.29c0,8.33-10.88,16.58-24.5,17.83"/>
+	<path id="kvg:03084-s2" d="M47.13,15.88c5.12,0.88,10.41,4.05,11.5,6.62c2.12,5-1,2.38-2.88,2.62"/>
+	<path id="kvg:03084-s3" d="M30,24.38c2.38,1.88,3.28,2.87,3.88,5.25c2.62,10.5,11.12,41.12,14.75,52.5c0.65,2.04,1.88,6.25,2.88,9.38"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_03084" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.88 44.13)">3</text>
+	<text transform="matrix(1 0 0 1 39.88 13.88)">4</text>
+	<text transform="matrix(1 0 0 1 19.26 25)">5</text>
+</g></g>
 </svg>`,
     'みゅ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
 xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_みゅ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_みゅ" kvg:element="みゅ">
-	<path id="kvg:generated-みゅ-s1" d="M24.50 35.60c1.13 1.05 2.44 1.02 4.13 0.75c2.33 4.57 7.13c2.56 3.75 2.70 3.07c-1.05 3.14 10.43 18.07c-8.18 19.51 17.56 11.18c0.00 12.29 19.80c11.10 1.65 18.00 3.97 26.63 8.55"/>
-	<path id="kvg:generated-みゅ-s2" d="M52.63 52.85c0.45 1.43 0.29 2.62 0.00 3.75c-1.27 4.87 15.00 20.25"/>
-	<path id="kvg:generated-みゅ-s3" d="M60.52 62.69c0.69 0.75 1.01 2.06 0.75 3.13c-1.44 5.88 11.13 17.50c1.39 9.43 0.56 1.94 1.63c4.50 13.62 22.19c8.44 0.00 10.94 5.69 10.94 10.13c0.00 13.69 14.81 8.38"/>
-	<path id="kvg:generated-みゅ-s4" d="M79.21 58.38c1.31 0.88 1.58 1.56 1.75 3.56c0.44 5.25 0.70 9.36 0.81 14.69c0.25 12.00 16.00 19.63"/>
+<g id="kvg:StrokePaths_generated_め" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:generated_め" kvg:element="め">
+	<path id="kvg:generated-め-s1" d="M25.38,28.5c2,1.38,2.97,3.23,3.38,5.88c1.87,12.18,4.12,23.92,8.54,34.67c1.79,4.36,3.96,8.33,6.84,12.46"/>
+	<path id="kvg:generated-め-s2" d="M57.12,19.25c0.88,2.12,1.06,3.79,0.62,5.88c-3.12,15-13.14,39.81-18.12,48.62c-11.87,21-20.62,1.25-20.62-4.5c0-22.63,43.75-44.25,62.36-29.59c7.66,6.03,9.8,14.58,9.14,23.34c-2,26.75-32.88,28.38-32.88,16.88c0-9.38,17.38-7.12,27.12-1.12c3.1,1.91,7.25,5.25,9.5,7.5"/>
 </g>
 </g>
-<g id="kvg:StrokeNumbers_generated_みゅ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
+<g id="kvg:StrokeNumbers_generated_め" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 17 27)">1</text>
+	<text transform="matrix(1 0 0 1 47 17)">2</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03086" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03086" kvg:element="ゆ">
+	<path id="kvg:03086-s1" d="M21.05,25.38c1.38,1.5,2.02,4.13,1.5,6.25c-2.88,11.75-4,22.25-2.12,35c2.77,18.85,1.12,3.88,3.25-1.5c9-22.75,27.24-34.5,44.38-34.5c16.88,0,21.88,11.38,21.88,20.25c0,27.38-30.88,29.62-43,16.75"/>
+	<path id="kvg:03086-s2" d="M58.42,16.75c2.62,1.75,3.17,3.13,3.5,7.12c0.88,10.5,1.4,18.72,1.62,29.38c0.5,24-6.25,32-12.38,39.25"/>
 </g>
+</g>
+<g id="kvg:StrokeNumbers_03086" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.67 22)">3</text>
+	<text transform="matrix(1 0 0 1 49.8 15.88)">4</text>
+</g></g>
 </svg>`,
     'みょ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
 xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_みょ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_みょ" kvg:element="みょ">
-	<path id="kvg:generated-みょ-s1" d="M24.50 35.60c1.13 1.05 2.44 1.02 4.13 0.75c2.33 4.57 7.13c2.56 3.75 2.70 3.07c-1.05 3.14 10.43 18.07c-8.18 19.51 17.56 11.18c0.00 12.29 19.80c11.10 1.65 18.00 3.97 26.63 8.55"/>
-	<path id="kvg:generated-みょ-s2" d="M52.63 52.85c0.45 1.43 0.29 2.62 0.00 3.75c-1.27 4.87 15.00 20.25"/>
-	<path id="kvg:generated-みょ-s3" d="M79.12 67.69c3.75 6.87 9.25c1.25 2.38 3.13"/>
-	<path id="kvg:generated-みょ-s4" d="M77.31 56.94c1.13 1.06 1.49 2.06 1.44 3.25c-0.38 8.50 17.44 0.69 26.75c0.94 11.54 10.44 5.75c0.00 13.13 17.99c4.05 1.61 5.76 2.44 9.26 5.19"/>
+<g id="kvg:StrokePaths_generated_め" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:generated_め" kvg:element="め">
+	<path id="kvg:generated-め-s1" d="M25.38,28.5c2,1.38,2.97,3.23,3.38,5.88c1.87,12.18,4.12,23.92,8.54,34.67c1.79,4.36,3.96,8.33,6.84,12.46"/>
+	<path id="kvg:generated-め-s2" d="M57.12,19.25c0.88,2.12,1.06,3.79,0.62,5.88c-3.12,15-13.14,39.81-18.12,48.62c-11.87,21-20.62,1.25-20.62-4.5c0-22.63,43.75-44.25,62.36-29.59c7.66,6.03,9.8,14.58,9.14,23.34c-2,26.75-32.88,28.38-32.88,16.88c0-9.38,17.38-7.12,27.12-1.12c3.1,1.91,7.25,5.25,9.5,7.5"/>
 </g>
 </g>
-<g id="kvg:StrokeNumbers_generated_みょ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
+<g id="kvg:StrokeNumbers_generated_め" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 17 27)">1</text>
+	<text transform="matrix(1 0 0 1 47 17)">2</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03088" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03088" kvg:element="よ">
+	<path id="kvg:03088-s1" d="M58.24,35.38c7.5-1.28,13.74-2.63,18.5-4.1c2.5-0.77,4.77-1.15,6.25-1.15"/>
+	<path id="kvg:03088-s2" d="M54.62,13.88c2.25,2.12,2.98,4.13,2.88,6.5c-0.75,17-0.12,34.88,1.39,53.5c1.88,23.07-34.89,20.88-34.89,11.5c0-12,26.25-8,35.98-4.12c8.1,3.23,11.52,4.88,18.52,10.38"/>
 </g>
+</g>
+<g id="kvg:StrokeNumbers_03088" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 61.62 28.88)">3</text>
+	<text transform="matrix(1 0 0 1 45.62 14.63)">4</text>
+</g></g>
 </svg>`,
     'りゃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
 xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_りゃ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_りゃ" kvg:element="りゃ">
-	<path id="kvg:generated-りゃ-s1" d="M28.25 35.15c0.75 0.90 1.34 2.42 0.97 3.97c-1.73 7.28 17.79 25.43c1.20 7.50 1.05 3.37"/>
-	<path id="kvg:generated-りゃ-s2" d="M46.62 31.25c1.35 1.27 1.73 2.47 1.73 3.90c0.00 1.43 0.00 15.83 0.00 21.45c0.00 9.90 15.45 19.87"/>
-	<path id="kvg:generated-りゃ-s3" d="M59.00 74.69c0.94 0.81 2.63 1.25 4.31 0.44c9.26 17.88 25.41c4.51 0.07 8.01 2.06 7.96 6.14c0.00 4.17 8.29 8.91"/>
-	<path id="kvg:generated-りゃ-s4" d="M73.56 57.94c2.56 0.44 5.21 2.02 5.75 3.31c1.06 2.50 1.19 1.31"/>
-	<path id="kvg:generated-りゃ-s5" d="M65.00 62.19c1.19 0.94 1.64 1.44 1.94 2.63c1.31 5.25 5.56 20.56 7.38 26.25c0.33 1.02 0.94 3.13 1.44 4.69"/>
+<g id="kvg:StrokePaths_0308a" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0308a" kvg:element="り">
+	<path id="kvg:0308a-s1" d="M38.75,25.25c1.25,1.5,2.24,4.03,1.62,6.62c-2.88,12.13-6.29,29.65-4.25,42.38c2,12.5,1.75-0.75,5.62-6.25"/>
+	<path id="kvg:0308a-s2" d="M69.37,18.75c2.25,2.12,2.88,4.12,2.88,6.5c0,2.38,0,26.38,0,35.75c0,16.5-5,25.75-12.62,33.12"/>
 </g>
 </g>
-<g id="kvg:StrokeNumbers_generated_りゃ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
-	<text transform="matrix(1 0 0 1 30 10)">5</text>
+<g id="kvg:StrokeNumbers_0308a" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 30.37 25)">1</text>
+	<text transform="matrix(1 0 0 1 61.62 17)">2</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03084" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03084" kvg:element="や">
+	<path id="kvg:03084-s1" d="M18,49.38c1.88,1.62,5.25,2.5,8.62,0.88c18.51-8.88,35.76-19.38,50.83-19.26c9.02,0.14,16.01,4.13,15.93,12.29c0,8.33-10.88,16.58-24.5,17.83"/>
+	<path id="kvg:03084-s2" d="M47.13,15.88c5.12,0.88,10.41,4.05,11.5,6.62c2.12,5-1,2.38-2.88,2.62"/>
+	<path id="kvg:03084-s3" d="M30,24.38c2.38,1.88,3.28,2.87,3.88,5.25c2.62,10.5,11.12,41.12,14.75,52.5c0.65,2.04,1.88,6.25,2.88,9.38"/>
 </g>
+</g>
+<g id="kvg:StrokeNumbers_03084" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.88 44.13)">3</text>
+	<text transform="matrix(1 0 0 1 39.88 13.88)">4</text>
+	<text transform="matrix(1 0 0 1 19.26 25)">5</text>
+</g></g>
 </svg>`,
     'りゅ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
 xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_りゅ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_りゅ" kvg:element="りゅ">
-	<path id="kvg:generated-りゅ-s1" d="M28.25 35.15c0.75 0.90 1.34 2.42 0.97 3.97c-1.73 7.28 17.79 25.43c1.20 7.50 1.05 3.37"/>
-	<path id="kvg:generated-りゅ-s2" d="M46.62 31.25c1.35 1.27 1.73 2.47 1.73 3.90c0.00 1.43 0.00 15.83 0.00 21.45c0.00 9.90 15.45 19.87"/>
-	<path id="kvg:generated-りゅ-s3" d="M60.52 62.69c0.69 0.75 1.01 2.06 0.75 3.13c-1.44 5.88 11.13 17.50c1.39 9.43 0.56 1.94 1.63c4.50 13.62 22.19c8.44 0.00 10.94 5.69 10.94 10.13c0.00 13.69 14.81 8.38"/>
-	<path id="kvg:generated-りゅ-s4" d="M79.21 58.38c1.31 0.88 1.58 1.56 1.75 3.56c0.44 5.25 0.70 9.36 0.81 14.69c0.25 12.00 16.00 19.63"/>
+<g id="kvg:StrokePaths_0308a" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0308a" kvg:element="り">
+	<path id="kvg:0308a-s1" d="M38.75,25.25c1.25,1.5,2.24,4.03,1.62,6.62c-2.88,12.13-6.29,29.65-4.25,42.38c2,12.5,1.75-0.75,5.62-6.25"/>
+	<path id="kvg:0308a-s2" d="M69.37,18.75c2.25,2.12,2.88,4.12,2.88,6.5c0,2.38,0,26.38,0,35.75c0,16.5-5,25.75-12.62,33.12"/>
 </g>
 </g>
-<g id="kvg:StrokeNumbers_generated_りゅ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
+<g id="kvg:StrokeNumbers_0308a" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 30.37 25)">1</text>
+	<text transform="matrix(1 0 0 1 61.62 17)">2</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03086" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03086" kvg:element="ゆ">
+	<path id="kvg:03086-s1" d="M21.05,25.38c1.38,1.5,2.02,4.13,1.5,6.25c-2.88,11.75-4,22.25-2.12,35c2.77,18.85,1.12,3.88,3.25-1.5c9-22.75,27.24-34.5,44.38-34.5c16.88,0,21.88,11.38,21.88,20.25c0,27.38-30.88,29.62-43,16.75"/>
+	<path id="kvg:03086-s2" d="M58.42,16.75c2.62,1.75,3.17,3.13,3.5,7.12c0.88,10.5,1.4,18.72,1.62,29.38c0.5,24-6.25,32-12.38,39.25"/>
 </g>
+</g>
+<g id="kvg:StrokeNumbers_03086" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 12.67 22)">3</text>
+	<text transform="matrix(1 0 0 1 49.8 15.88)">4</text>
+</g></g>
 </svg>`,
     'りょ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
 xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_りょ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_りょ" kvg:element="りょ">
-	<path id="kvg:generated-りょ-s1" d="M28.25 35.15c0.75 0.90 1.34 2.42 0.97 3.97c-1.73 7.28 17.79 25.43c1.20 7.50 1.05 3.37"/>
-	<path id="kvg:generated-りょ-s2" d="M46.62 31.25c1.35 1.27 1.73 2.47 1.73 3.90c0.00 1.43 0.00 15.83 0.00 21.45c0.00 9.90 15.45 19.87"/>
-	<path id="kvg:generated-りょ-s3" d="M79.12 67.69c3.75 6.87 9.25c1.25 2.38 3.13"/>
-	<path id="kvg:generated-りょ-s4" d="M77.31 56.94c1.13 1.06 1.49 2.06 1.44 3.25c-0.38 8.50 17.44 0.69 26.75c0.94 11.54 10.44 5.75c0.00 13.13 17.99c4.05 1.61 5.76 2.44 9.26 5.19"/>
+<g id="kvg:StrokePaths_0308a" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0308a" kvg:element="り">
+	<path id="kvg:0308a-s1" d="M38.75,25.25c1.25,1.5,2.24,4.03,1.62,6.62c-2.88,12.13-6.29,29.65-4.25,42.38c2,12.5,1.75-0.75,5.62-6.25"/>
+	<path id="kvg:0308a-s2" d="M69.37,18.75c2.25,2.12,2.88,4.12,2.88,6.5c0,2.38,0,26.38,0,35.75c0,16.5-5,25.75-12.62,33.12"/>
 </g>
 </g>
-<g id="kvg:StrokeNumbers_generated_りょ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
-	<text transform="matrix(1 0 0 1 25 10)">4</text>
+<g id="kvg:StrokeNumbers_0308a" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 30.37 25)">1</text>
+	<text transform="matrix(1 0 0 1 61.62 17)">2</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03088" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03088" kvg:element="よ">
+	<path id="kvg:03088-s1" d="M58.24,35.38c7.5-1.28,13.74-2.63,18.5-4.1c2.5-0.77,4.77-1.15,6.25-1.15"/>
+	<path id="kvg:03088-s2" d="M54.62,13.88c2.25,2.12,2.98,4.13,2.88,6.5c-0.75,17-0.12,34.88,1.39,53.5c1.88,23.07-34.89,20.88-34.89,11.5c0-12,26.25-8,35.98-4.12c8.1,3.23,11.52,4.88,18.52,10.38"/>
 </g>
+</g>
+<g id="kvg:StrokeNumbers_03088" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 61.62 28.88)">3</text>
+	<text transform="matrix(1 0 0 1 45.62 14.63)">4</text>
+</g></g>
 </svg>`,
     'てィ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
 xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_てィ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_てィ" kvg:element="てィ">
-	<path id="kvg:generated-てィ-s1" d="M17.30 35.83c1.12 0.97 2.65 1.18 4.87 0.82c13.05 19.80 30.07c7.40 7.80 0.23 0.83c-10.73 1.91 11.47 22.57c0.00 12.30 10.75 18.15 21.10 18.15"/>
-	<path id="kvg:generated-てィ-s2" d="M60.75 64.83c1.00 1.08 1.30 2.34 1.08 3.71c-1.54 9.58 16.00 3.96 20.73c3.06 3.23 3.13 1.57 3.52"/>
-	<path id="kvg:generated-てィ-s3" d="M86.48 68.25c4.72 4.03 8.89 9.41 9.21 16.91"/>
+<g id="kvg:StrokePaths_03066" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03066" kvg:element="て">
+	<path id="kvg:03066-s1" d="M20.5,26.38c1.87,1.62,4.42,1.97,8.12,1.37c21.75-3.5,33-5.12,50.12-8.38c12.34-2.34,13-0.88,0.38,1.38c-17.89,3.19-33.78,19.12-33.78,37.62c0,20.5,17.91,30.25,35.16,30.25"/>
 </g>
 </g>
-<g id="kvg:StrokeNumbers_generated_てィ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
+<g id="kvg:StrokeNumbers_03066" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 16.37 20)">1</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03044" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03044" kvg:element="い">
+	<path id="kvg:03044-s1" d="M21.5,29.66c2.01,2.17,2.61,4.68,2.17,7.43c-3.09,19.16-1.03,32.01,7.93,41.45c6.12,6.45,6.26,3.14,7.04-5.21"/>
+	<path id="kvg:03044-s2" d="M72.96,36.51c9.44,8.05,17.79,18.82,18.41,33.83"/>
 </g>
+</g>
+<g id="kvg:StrokeNumbers_03044" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 14.96 27.13)">2</text>
+	<text transform="matrix(1 0 0 1 62.21 32.88)">3</text>
+</g></g>
 </svg>`,
     'てぃ': `<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
+<!ATTLIST g xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+<!ATTLIST path xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g transform="translate(0, 5) scale(0.65)"><!ATTLIST path
 xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_generated_てぃ" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:generated_てぃ" kvg:element="てぃ">
-	<path id="kvg:generated-てぃ-s1" d="M17.30 35.83c1.12 0.97 2.65 1.18 4.87 0.82c13.05 19.80 30.07c7.40 7.80 0.23 0.83c-10.73 1.91 11.47 22.57c0.00 12.30 10.75 18.15 21.10 18.15"/>
-	<path id="kvg:generated-てぃ-s2" d="M60.75 64.83c1.00 1.08 1.30 2.34 1.08 3.71c-1.54 9.58 16.00 3.96 20.73c3.06 3.23 3.13 1.57 3.52"/>
-	<path id="kvg:generated-てぃ-s3" d="M86.48 68.25c4.72 4.03 8.89 9.41 9.21 16.91"/>
+<g id="kvg:StrokePaths_03066" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03066" kvg:element="て">
+	<path id="kvg:03066-s1" d="M20.5,26.38c1.87,1.62,4.42,1.97,8.12,1.37c21.75-3.5,33-5.12,50.12-8.38c12.34-2.34,13-0.88,0.38,1.38c-17.89,3.19-33.78,19.12-33.78,37.62c0,20.5,17.91,30.25,35.16,30.25"/>
 </g>
 </g>
-<g id="kvg:StrokeNumbers_generated_てぃ" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 10 10)">1</text>
-	<text transform="matrix(1 0 0 1 15 10)">2</text>
-	<text transform="matrix(1 0 0 1 20 10)">3</text>
+<g id="kvg:StrokeNumbers_03066" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 16.37 20)">1</text>
+</g></g><g transform="translate(55, 40) scale(0.50)"><!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_03044" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:03044" kvg:element="い">
+	<path id="kvg:03044-s1" d="M21.5,29.66c2.01,2.17,2.61,4.68,2.17,7.43c-3.09,19.16-1.03,32.01,7.93,41.45c6.12,6.45,6.26,3.14,7.04-5.21"/>
+	<path id="kvg:03044-s2" d="M72.96,36.51c9.44,8.05,17.79,18.82,18.41,33.83"/>
 </g>
+</g>
+<g id="kvg:StrokeNumbers_03044" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 14.96 27.13)">2</text>
+	<text transform="matrix(1 0 0 1 62.21 32.88)">3</text>
+</g></g>
 </svg>`,
 };

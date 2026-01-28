@@ -6,46 +6,69 @@ const StrokeGuide = ({ character, size = 320 }) => {
 
     if (!svgString) return null;
 
-    // Extract paths and stroke numbers
-    // Allow for other attributes (like id) before d
-    const pathRegex = /<path[^>]*\sd="([^"]+)"/g;
-    const paths = [];
-    let match;
-    while ((match = pathRegex.exec(svgString)) !== null) {
-        paths.push(match[1]);
-    }
+    // We can extract the inner content of the SVG to avoid nesting <svg> inside <svg> if possible,
+    // OR just use an <img> or `dangerouslySetInnerHTML`.
+    // Since we need to STYLE the paths differently (thick base, thin guide),
+    // we need to be able to apply CSS to the paths.
+    // If we use `dangerouslySetInnerHTML`, the SVG is in the DOM, so we can use CSS.
 
-    // Extract numbers (approximate position from transform matrix)
-    const numberRegex = /<text transform="matrix\(1 0 0 1 ([\d.]+) ([\d.]+)\)">(\d+)<\/text>/g;
-    const numbers = [];
-    while ((match = numberRegex.exec(svgString)) !== null) {
-        numbers.push({ x: parseFloat(match[1]), y: parseFloat(match[2]), num: match[3] });
-    }
+    // To cleanly separate "Base" (thick), "Guide" (thin dashed), and "Numbers",
+    // we will render the SVG three times on top of each other, 
+    // and use a container class to control visibility/styling of children.
+
+    // Extract inner content? Or just dump the whole SVG?
+    // HIRAGANA_SVG contains the full XML string including `<?xml...>` and `<!DOCTYPE...>`.
+    // We should strip the preamble.
+    const svgBody = svgString.replace(/<\?xml.*?>/, '').replace(/<!DOCTYPE.*?>/, '');
+
+    const commonStyle = {
+        position: 'absolute',
+        top: 0,
+        left: 0,
+        width: '100%',
+        height: '100%',
+        pointerEvents: 'none'
+    };
 
     return (
-        <div style={{ width: size, height: size, display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-            <svg viewBox="0 0 109 109" width="100%" height="100%" style={{ pointerEvents: 'none', opacity: 1 }}>
-                {/* 1. Thick Base Character (Hidden Hitbox) */}
-                <g style={{ fill: 'none', stroke: 'transparent', strokeWidth: 25, strokeLinecap: 'round', strokeLinejoin: 'round' }}>
-                    {paths.map((d, i) => (
-                        <path key={`base-${i}`} d={d} />
-                    ))}
-                </g>
+        <div style={{ position: 'relative', width: size, height: size }}>
+            <style>{`
+                /* Layer 1: Base - Thick transparent stroke for visual weight (ghost) */
+                .layer-base path {
+                    stroke: #ddd !important;
+                    stroke-width: 25px !important;
+                    fill: none !important;
+                    opacity: 0.5;
+                }
+                .layer-base text { display: none; }
 
-                {/* 2. Thin Guide Lines */}
-                <g style={{ fill: 'none', stroke: '#999', strokeWidth: 3, strokeLinecap: 'round', strokeLinejoin: 'round', strokeDasharray: '5,5' }}>
-                    {paths.map((d, i) => (
-                        <path key={i} d={d} />
-                    ))}
-                </g>
+                /* Layer 2: Guide - Thin dashed line */
+                .layer-guide path {
+                    stroke: #999 !important;
+                    stroke-width: 3px !important;
+                    stroke-dasharray: 5, 5;
+                    fill: none !important;
+                }
+                .layer-guide text { display: none; }
 
-                {/* Render Numbers */}
-                <g style={{ fontSize: '10px', fill: '#888', fontFamily: 'sans-serif', fontWeight: 'bold' }}>
-                    {numbers.map((n, i) => (
-                        <text key={i} x={n.x} y={n.y}>{n.num}</text>
-                    ))}
-                </g>
-            </svg>
+                /* Layer 3: Numbers */
+                .layer-numbers path { display: none; }
+                .layer-numbers text {
+                    font-size: 8px;
+                    fill: #888;
+                    font-family: sans-serif;
+                    font-weight: bold;
+                }
+            `}</style>
+
+            {/* Layer 1: Base */}
+            <div className="layer-base" style={commonStyle} dangerouslySetInnerHTML={{ __html: svgBody }} />
+
+            {/* Layer 2: Guide */}
+            <div className="layer-guide" style={commonStyle} dangerouslySetInnerHTML={{ __html: svgBody }} />
+
+            {/* Layer 3: Numbers */}
+            <div className="layer-numbers" style={commonStyle} dangerouslySetInnerHTML={{ __html: svgBody }} />
         </div>
     );
 };
