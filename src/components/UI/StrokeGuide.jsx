@@ -19,7 +19,9 @@ const StrokeGuide = ({ character, size = 320 }) => {
     // Extract inner content? Or just dump the whole SVG?
     // HIRAGANA_SVG contains the full XML string including `<?xml...>` and `<!DOCTYPE...>`.
     // We should strip the preamble.
-    const svgBody = svgString.replace(/<\?xml.*?>/, '').replace(/<!DOCTYPE.*?>/, '');
+    // Find the start of the <svg> tag to skip any XML preamble or DOCTYPE
+    const svgStart = svgString.indexOf('<svg');
+    const svgBody = svgStart !== -1 ? svgString.substring(svgStart) : svgString;
 
     const commonStyle = {
         position: 'absolute',
