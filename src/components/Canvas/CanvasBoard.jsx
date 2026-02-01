@@ -108,7 +108,7 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
             if (svgData) {
                 // Use SVG paths for validation logic to match visual guide
                 // Visual layout: centered, padding 20px (logical)
-                const padding = 20 * dpr;
+                const padding = 5 * dpr;
                 const logicalW = width * dpr;
                 const logicalH = height * dpr;
 
@@ -173,7 +173,7 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
 
             let physicalGuideWidth;
             if (svgData) {
-                const padding = 20 * dpr;
+                const padding = 5 * dpr;
                 const logicalW = width * dpr;
                 const logicalH = height * dpr;
                 const drawW = logicalW - (padding * 2);
@@ -263,7 +263,7 @@ const CanvasBoard = React.forwardRef(({ width, height, strokeColor = '#333', str
                     display: 'flex',
                     justifyContent: 'center',
                     alignItems: 'center',
-                    padding: '20px'
+                    padding: '5px'
                 }}>
                     <StrokeGuide character={character} size="100%" />
                 </div>
